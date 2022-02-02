@@ -1,0 +1,3980 @@
+fileFormatVersion: 2
+guid: 1e04fd6fa1ebada4ab40a1a17abc727e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8864775085466101772
+    second: Cavalier_0
+  - first:
+      213: -5827083692577996400
+    second: Cavalier_1
+  - first:
+      213: -8187228085298937467
+    second: Cavalier_2
+  - first:
+      213: 7751390932869994559
+    second: Cavalier_3
+  - first:
+      213: -6948370102317255720
+    second: Cavalier_4
+  - first:
+      213: 6284303917281907843
+    second: Cavalier_5
+  - first:
+      213: -6263241977733637469
+    second: Cavalier_6
+  - first:
+      213: 4382940078385199852
+    second: Cavalier_7
+  - first:
+      213: 6130209539988442784
+    second: Cavalier_8
+  - first:
+      213: -6089146233163235030
+    second: Cavalier_9
+  - first:
+      213: -1508797775684448557
+    second: Cavalier_10
+  - first:
+      213: 6477045489663011142
+    second: Cavalier_11
+  - first:
+      213: 8288737003521796890
+    second: Cavalier_12
+  - first:
+      213: 3855867115694357148
+    second: Cavalier_13
+  - first:
+      213: 3266074255497838576
+    second: Cavalier_14
+  - first:
+      213: 63776534105094899
+    second: Cavalier_15
+  - first:
+      213: 6630184617235998509
+    second: Cavalier_16
+  - first:
+      213: 6396035938185728382
+    second: Cavalier_17
+  - first:
+      213: 7744122461352967345
+    second: Cavalier_18
+  - first:
+      213: -6946699364450948510
+    second: Cavalier_19
+  - first:
+      213: -8188489882123896891
+    second: Cavalier_20
+  - first:
+      213: -1567243642191455367
+    second: Cavalier_21
+  - first:
+      213: 5733574018864143898
+    second: Cavalier_22
+  - first:
+      213: 3013864745629913167
+    second: Cavalier_23
+  - first:
+      213: -7850782924707577564
+    second: Cavalier_24
+  - first:
+      213: -9050457881042698427
+    second: Cavalier_25
+  - first:
+      213: -4227100514121277516
+    second: Cavalier_26
+  - first:
+      213: 8165805653830344499
+    second: Cavalier_27
+  - first:
+      213: -872903045555709048
+    second: Cavalier_28
+  - first:
+      213: -1123940690977055874
+    second: Cavalier_29
+  - first:
+      213: 5895487282817394403
+    second: Cavalier_30
+  - first:
+      213: -8618782366560566103
+    second: Cavalier_31
+  - first:
+      213: 2653896050962966764
+    second: Cavalier_32
+  - first:
+      213: 2896510122162497927
+    second: Cavalier_33
+  - first:
+      213: -3081762561224935237
+    second: Cavalier_34
+  - first:
+      213: -4231120284054634803
+    second: Cavalier_35
+  - first:
+      213: 2927427777035827221
+    second: Cavalier_36
+  - first:
+      213: -7975148518281880436
+    second: Cavalier_37
+  - first:
+      213: 2896018201181103132
+    second: Cavalier_38
+  - first:
+      213: 2836741396987131707
+    second: Cavalier_39
+  - first:
+      213: 2542054413074765406
+    second: Cavalier_40
+  - first:
+      213: -6155024876317927715
+    second: Cavalier_41
+  - first:
+      213: -2432906112589173960
+    second: Cavalier_42
+  - first:
+      213: -1673560419729106278
+    second: Cavalier_43
+  - first:
+      213: 4079339780786589731
+    second: Cavalier_44
+  - first:
+      213: -1622656070754125179
+    second: Cavalier_45
+  - first:
+      213: 6881393740006545083
+    second: Cavalier_46
+  - first:
+      213: -540112785222639618
+    second: Cavalier_47
+  - first:
+      213: 3955338656253334951
+    second: Cavalier_48
+  - first:
+      213: 989858656641031298
+    second: Cavalier_49
+  - first:
+      213: -6262394174654348209
+    second: Cavalier_50
+  - first:
+      213: -294899612314764764
+    second: Cavalier_51
+  - first:
+      213: -1351993408388316544
+    second: Cavalier_52
+  - first:
+      213: -4551271488370817298
+    second: Cavalier_53
+  - first:
+      213: 1245554101433403651
+    second: Cavalier_54
+  - first:
+      213: 6586912095560482343
+    second: Cavalier_55
+  - first:
+      213: -5225238015510170287
+    second: Cavalier_56
+  - first:
+      213: 4999056035166311537
+    second: Cavalier_57
+  - first:
+      213: -16310732967733931
+    second: Cavalier_58
+  - first:
+      213: -4361818646196684770
+    second: Cavalier_59
+  - first:
+      213: 650508116755490360
+    second: Cavalier_60
+  - first:
+      213: -5541297689349758048
+    second: Cavalier_61
+  - first:
+      213: 7770652723149470369
+    second: Cavalier_62
+  - first:
+      213: 5152408915011844170
+    second: Cavalier_63
+  - first:
+      213: 5276661751870885721
+    second: Cavalier_64
+  - first:
+      213: 1372725062149007512
+    second: Cavalier_65
+  - first:
+      213: 4758572204497342388
+    second: Cavalier_66
+  - first:
+      213: -2284580302263307593
+    second: Cavalier_67
+  - first:
+      213: 8519946684531721379
+    second: Cavalier_68
+  - first:
+      213: -5909851722268270166
+    second: Cavalier_69
+  - first:
+      213: -8807803022448111402
+    second: Cavalier_70
+  - first:
+      213: 790091278684518377
+    second: Cavalier_71
+  - first:
+      213: -1030885586143755302
+    second: Cavalier_72
+  - first:
+      213: -5787330322782714161
+    second: Cavalier_73
+  - first:
+      213: -8662560609922205117
+    second: Cavalier_74
+  - first:
+      213: -8169601258912653434
+    second: Cavalier_75
+  - first:
+      213: 2969017362433245835
+    second: Cavalier_76
+  - first:
+      213: 1385755317401890637
+    second: Cavalier_77
+  - first:
+      213: -6785084371367274086
+    second: Cavalier_78
+  - first:
+      213: 7198737063715838514
+    second: Cavalier_79
+  - first:
+      213: 7454342115618688414
+    second: Cavalier_80
+  - first:
+      213: 8449154125408629548
+    second: Cavalier_81
+  - first:
+      213: 5204921712619910699
+    second: Cavalier_82
+  - first:
+      213: -6386092666303968564
+    second: Cavalier_83
+  - first:
+      213: 3480489021853550225
+    second: Cavalier_84
+  - first:
+      213: 8513707686083407357
+    second: Cavalier_85
+  - first:
+      213: 7991407066191957427
+    second: Cavalier_86
+  - first:
+      213: -3808890901505206052
+    second: Cavalier_87
+  - first:
+      213: -4921937296591603072
+    second: Cavalier_88
+  - first:
+      213: 7688719448825772242
+    second: Cavalier_89
+  - first:
+      213: -4187366084322287372
+    second: Cavalier_90
+  - first:
+      213: -4806539200220432787
+    second: Cavalier_91
+  - first:
+      213: -2174783572939309462
+    second: Cavalier_92
+  - first:
+      213: -1974727199955183911
+    second: Cavalier_93
+  - first:
+      213: 5719469731994665518
+    second: Cavalier_94
+  - first:
+      213: -981473756361176730
+    second: Cavalier_95
+  - first:
+      213: -4996847103695647557
+    second: Cavalier_96
+  - first:
+      213: 591625973886190834
+    second: Cavalier_97
+  - first:
+      213: -4700593967982588436
+    second: Cavalier_98
+  - first:
+      213: 1825020950099744309
+    second: Cavalier_99
+  - first:
+      213: -1127577765287137963
+    second: Cavalier_100
+  - first:
+      213: 4127366791717653113
+    second: Cavalier_101
+  - first:
+      213: -351766500713820580
+    second: Cavalier_102
+  - first:
+      213: 1303999968782721180
+    second: Cavalier_103
+  - first:
+      213: 7875943736924336326
+    second: Cavalier_104
+  - first:
+      213: -266502453143077943
+    second: Cavalier_105
+  - first:
+      213: -8476347512915338322
+    second: Cavalier_106
+  - first:
+      213: 859393926661424032
+    second: Cavalier_107
+  - first:
+      213: 3564492816998150688
+    second: Cavalier_108
+  - first:
+      213: 4386788471165125276
+    second: Cavalier_109
+  - first:
+      213: 6238710658937388298
+    second: Cavalier_110
+  - first:
+      213: 7326719349281386636
+    second: Cavalier_111
+  - first:
+      213: -3888773709852575941
+    second: Cavalier_112
+  - first:
+      213: -3580591166726045457
+    second: Cavalier_113
+  - first:
+      213: 8405044281908494825
+    second: Cavalier_114
+  - first:
+      213: -1659676791695438283
+    second: Cavalier_115
+  - first:
+      213: 6924549001787081019
+    second: Cavalier_116
+  - first:
+      213: 1401548226525594415
+    second: Cavalier_117
+  - first:
+      213: 3532229623408469075
+    second: Cavalier_118
+  - first:
+      213: -6778020115190770553
+    second: Cavalier_119
+  - first:
+      213: -9186141333243805167
+    second: Cavalier_120
+  - first:
+      213: 347766363859772360
+    second: Cavalier_121
+  - first:
+      213: -8884694747646128974
+    second: Cavalier_122
+  - first:
+      213: -7419747247962324848
+    second: Cavalier_123
+  - first:
+      213: 1657147007661632887
+    second: Cavalier_124
+  - first:
+      213: -206075291559834785
+    second: Cavalier_125
+  - first:
+      213: -8990688775248115953
+    second: Cavalier_126
+  - first:
+      213: 4735085961895262717
+    second: Cavalier_127
+  - first:
+      213: -7110294578525761505
+    second: Cavalier_128
+  - first:
+      213: 227059449929509590
+    second: Cavalier_129
+  - first:
+      213: 2780948744082742897
+    second: Cavalier_130
+  - first:
+      213: -3527011919741768222
+    second: Cavalier_131
+  - first:
+      213: -3729341848472815278
+    second: Cavalier_132
+  - first:
+      213: 1678460102112788186
+    second: Cavalier_133
+  - first:
+      213: 8726564303052802843
+    second: Cavalier_134
+  - first:
+      213: -188307187007775379
+    second: Cavalier_135
+  - first:
+      213: 2867645195168503372
+    second: Cavalier_136
+  - first:
+      213: 3835513609907674380
+    second: Cavalier_137
+  - first:
+      213: 6494472646334235138
+    second: Cavalier_138
+  - first:
+      213: 5516181697523626877
+    second: Cavalier_139
+  - first:
+      213: 8703968006843637374
+    second: Cavalier_140
+  - first:
+      213: 3683918289937526102
+    second: Cavalier_141
+  - first:
+      213: -7921898265644417127
+    second: Cavalier_142
+  - first:
+      213: 1448011210018663833
+    second: Cavalier_143
+  - first:
+      213: 3529199878809383282
+    second: Cavalier_144
+  - first:
+      213: 7331360338095466409
+    second: Cavalier_145
+  - first:
+      213: 5350201802460478831
+    second: Cavalier_146
+  - first:
+      213: 8000354190276838073
+    second: Cavalier_147
+  - first:
+      213: 7094591066497331490
+    second: Cavalier_148
+  - first:
+      213: -7999749830316327614
+    second: Cavalier_149
+  - first:
+      213: 2602292696551313956
+    second: Cavalier_150
+  - first:
+      213: -698701694007087333
+    second: Cavalier_151
+  - first:
+      213: -9087954797038157789
+    second: Cavalier_152
+  - first:
+      213: -4146613482712243953
+    second: Cavalier_153
+  - first:
+      213: -4967896299075498419
+    second: Cavalier_154
+  - first:
+      213: 8249740070807272945
+    second: Cavalier_155
+  - first:
+      213: -1529865559227950632
+    second: Cavalier_156
+  - first:
+      213: -4687001928706699439
+    second: Cavalier_157
+  - first:
+      213: 560983770465587591
+    second: Cavalier_158
+  - first:
+      213: -3681708168981820790
+    second: Cavalier_159
+  - first:
+      213: -5081652218752736825
+    second: Cavalier_160
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cavalier_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1240
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75f01070ef9f480800000000000000
+      internalID: -8864775085466101772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1239
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ca6b314a022fa0800000000000000
+      internalID: -5827083692577996400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1238
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581c7a82f6f116e80800000000000000
+      internalID: -8187228085298937467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1238
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3856ec1cf8729b60800000000000000
+      internalID: 7751390932869994559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1239
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37f6bb43e629f90800000000000000
+      internalID: -6948370102317255720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1238
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841f2afd15563750800000000000000
+      internalID: 6284303917281907843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_6
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1238
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa1fd6fa9e7419a0800000000000000
+      internalID: -6263241977733637469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_7
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1238
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaf8fb87c453dc30800000000000000
+      internalID: 4382940078385199852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_8
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1238
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aec8bde811e21550800000000000000
+      internalID: 6130209539988442784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1086
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c5ea33c10f7ba0800000000000000
+      internalID: -6089146233163235030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1087
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3decd6eba6caf0be0800000000000000
+      internalID: -1508797775684448557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e8655e8613e950800000000000000
+      internalID: 6477045489663011142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1090
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6d8b9362870370800000000000000
+      internalID: 8288737003521796890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1090
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a721466bac28530800000000000000
+      internalID: 3855867115694357148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1088
+        width: 146
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3ff02b3d635d20800000000000000
+      internalID: 3266074255497838576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_15
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1087
+        width: 161
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf65c7b6492e000800000000000000
+      internalID: 63776534105094899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_16
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1087
+        width: 151
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276c99f7c5230c50800000000000000
+      internalID: 6630184617235998509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_17
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1087
+        width: 128
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7151325cc843c850800000000000000
+      internalID: 6396035938185728382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 943
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc31163956a87b60800000000000000
+      internalID: 7744122461352967345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 942
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2874bbbd589f90800000000000000
+      internalID: -6946699364450948510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 943
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ff1136d3ac5e80800000000000000
+      internalID: -8188489882123896891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 946
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b50b60638004ae0800000000000000
+      internalID: -1567243642191455367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_22
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 946
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e5ecf313fb19f40800000000000000
+      internalID: 5733574018864143898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_23
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 943
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40185c940663d920800000000000000
+      internalID: 3013864745629913167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_24
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 942
+        width: 133
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214a14768a6c0390800000000000000
+      internalID: -7850782924707577564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_25
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 942
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb0d13280566280800000000000000
+      internalID: -9050457881042698427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 810
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1ee18a725655c0800000000000000
+      internalID: -4227100514121277516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 810
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f1f655af4c25170800000000000000
+      internalID: 8165805653830344499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_28
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 807
+        width: 95
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9b4e0e43d2e3f0800000000000000
+      internalID: -872903045555709048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 805
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b94bd75e5f660f0800000000000000
+      internalID: -1123940690977055874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_30
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 803
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e926b27af0d150800000000000000
+      internalID: 5895487282817394403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_31
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 800
+        width: 94
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c1c41a1fe36880800000000000000
+      internalID: -8618782366560566103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_32
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 790
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a57cb56884d420800000000000000
+      internalID: 2653896050962966764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_33
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 794
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789a1d71c98723820800000000000000
+      internalID: 2896510122162497927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_34
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 670
+        width: 116
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8f61847416b35d0800000000000000
+      internalID: -3081762561224935237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 668
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce39f2e48a0845c0800000000000000
+      internalID: -4231120284054634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 669
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f4d39d0050a820800000000000000
+      internalID: 2927427777035827221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_37
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 671
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c53d04da4925190800000000000000
+      internalID: -7975148518281880436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_38
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 672
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c142770d539b03820800000000000000
+      internalID: 2896018201181103132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_39
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 672
+        width: 107
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37301755412e5720800000000000000
+      internalID: 2836741396987131707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_40
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 676
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5619033501374320800000000000000
+      internalID: 2542054413074765406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_41
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 678
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd690675c75f49aa0800000000000000
+      internalID: -6155024876317927715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 521
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bee3bd7c49c3ed0800000000000000
+      internalID: -2432906112589173960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 523
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a94e74aa156c8e0800000000000000
+      internalID: -1673560419729106278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 521
+        width: 114
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32097e7dae9bc9830800000000000000
+      internalID: 4079339780786589731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 519
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ab11e96ea2b79e0800000000000000
+      internalID: -1622656070754125179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 518
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6dfa8b52f9f7f50800000000000000
+      internalID: 6881393740006545083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_47
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 593
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff582298422188f0800000000000000
+      internalID: -540112785222639618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_48
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 593
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5d9543d8f24e630800000000000000
+      internalID: 3955338656253334951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_49
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 595
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c1fe6243facbd00800000000000000
+      internalID: 989858656641031298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_50
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 593
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4480408da18719a0800000000000000
+      internalID: -6262394174654348209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_51
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 593
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af3937d5e48ebf0800000000000000
+      internalID: -294899612314764764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_52
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 593
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08248528821cc3de0800000000000000
+      internalID: -1351993408388316544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_53
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 501
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee64b4be1b2a6d0c0800000000000000
+      internalID: -4551271488370817298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_54
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 535
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30908742bd8194110800000000000000
+      internalID: 1245554101433403651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_55
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 547
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3b96e6a9696b50800000000000000
+      internalID: 6586912095560482343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_56
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 547
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15536aa95b93c77b0800000000000000
+      internalID: -5225238015510170287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_57
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 547
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1745c545af6306540800000000000000
+      internalID: 4999056035166311537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_58
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 547
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5559e6b897d06cff0800000000000000
+      internalID: -16310732967733931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_59
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 547
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1875ca1d05b773c0800000000000000
+      internalID: -4361818646196684770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_60
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 547
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83628b68fa1170900800000000000000
+      internalID: 650508116755490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_61
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 518
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a36d9f4c1b5913b0800000000000000
+      internalID: -5541297689349758048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_62
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafe342b77e6db60800000000000000
+      internalID: 7770652723149470369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_63
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 518
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4836dc0c98018740800000000000000
+      internalID: 5152408915011844170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_64
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f872808e77a3940800000000000000
+      internalID: 5276661751870885721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_65
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898eaa7cb26ec0310800000000000000
+      internalID: 1372725062149007512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_66
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 518
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf8c1f3538d90240800000000000000
+      internalID: 4758572204497342388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_67
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2bdbeb15a8b40e0800000000000000
+      internalID: -2284580302263307593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_68
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 518
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c7c47e5eec3670800000000000000
+      internalID: 8519946684531721379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_69
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 518
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa128fa9b2dfbfda0800000000000000
+      internalID: -5909851722268270166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_70
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 515
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05e5b11d564c580800000000000000
+      internalID: -8807803022448111402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_71
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 518
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ff16f4d7f6fa00800000000000000
+      internalID: 790091278684518377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_72
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 518
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3c4d1750f81b1f0800000000000000
+      internalID: -1030885586143755302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_73
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc680b8ebb54fafa0800000000000000
+      internalID: -5787330322782714161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_74
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34abb40850768c780800000000000000
+      internalID: -8662560609922205117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_75
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 518
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f5ded70febf9e80800000000000000
+      internalID: -8169601258912653434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_76
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 518
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820dc38f81143920800000000000000
+      internalID: 2969017362433245835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_77
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 518
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f295f7e113b3310800000000000000
+      internalID: 1385755317401890637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_78
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 515
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99599196b986d1a0800000000000000
+      internalID: -6785084371367274086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_79
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 518
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a983a083d07e360800000000000000
+      internalID: 7198737063715838514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_80
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 502
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8fabc8a4237760800000000000000
+      internalID: 7454342115618688414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_81
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 502
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23f18959ec614570800000000000000
+      internalID: 8449154125408629548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_82
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 500
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b267d6488b89b3840800000000000000
+      internalID: 5204921712619910699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_83
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 502
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca89321e8a0067a0800000000000000
+      internalID: -6386092666303968564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_84
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 502
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1964a30335e2d4030800000000000000
+      internalID: 3480489021853550225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_85
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 502
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda38e6804c62670800000000000000
+      internalID: 8513707686083407357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_86
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 499
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd0bebe26e27ee60800000000000000
+      internalID: 7991407066191957427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_87
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 502
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8909bc7e9142bc0800000000000000
+      internalID: -3808890901505206052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_88
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 502
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a39e53b14c1bbb0800000000000000
+      internalID: -4921937296591603072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_89
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 502
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b5e42a91d3ba60800000000000000
+      internalID: 7688719448825772242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_90
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 502
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a37f5bbc73e5c0800000000000000
+      internalID: -4187366084322287372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_91
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 502
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66fed3401ebb4db0800000000000000
+      internalID: -4806539200220432787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_92
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 502
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ef897ecdd91d1e0800000000000000
+      internalID: -2174783572939309462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_93
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 502
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d69e5ef21c5894e0800000000000000
+      internalID: -1974727199955183911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_94
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 502
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22042f0b63af5f40800000000000000
+      internalID: 5719469731994665518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 360
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66949b391da1162f0800000000000000
+      internalID: -981473756361176730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 360
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc084b9802a7aab0800000000000000
+      internalID: -4996847103695647557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_97
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 359
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4816d40b0e53800800000000000000
+      internalID: 591625973886190834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_98
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 359
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedcd01e0b224ceb0800000000000000
+      internalID: -4700593967982588436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_99
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 359
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536575e72e6c35910800000000000000
+      internalID: 1825020950099744309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_100
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 356
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6e632ff90a50f0800000000000000
+      internalID: -1127577765287137963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_101
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 356
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a0316ba3a574930800000000000000
+      internalID: 4127366791717653113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_102
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 357
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e02193b364e1bf0800000000000000
+      internalID: -351766500713820580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_103
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 416
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902a6e001db81210800000000000000
+      internalID: 1303999968782721180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_104
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 413
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c07656a919fc4d60800000000000000
+      internalID: 7875943736924336326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_105
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 413
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf2ac4e613d4cf0800000000000000
+      internalID: -266502453143077943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_106
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 416
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab5aebb8d6fd5a80800000000000000
+      internalID: -8476347512915338322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_107
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 416
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a348c8193e2deb00800000000000000
+      internalID: 859393926661424032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_108
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 416
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0223b91e45f977130800000000000000
+      internalID: 3564492816998150688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_109
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 413
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9283905fd001ec30800000000000000
+      internalID: 4386788471165125276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_110
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 363
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df76a4a4a549650800000000000000
+      internalID: 6238710658937388298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_111
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 395
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f5e6fd6cbda560800000000000000
+      internalID: 7326719349281386636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_112
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 398
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37fb5c1aec480ac0800000000000000
+      internalID: -3888773709852575941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_113
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 398
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0846dfd4f2f4ec0800000000000000
+      internalID: -3580591166726045457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_114
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 398
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e185981e37b4a470800000000000000
+      internalID: 8405044281908494825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_115
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 398
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e880550c4a7f8e0800000000000000
+      internalID: -1659676791695438283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_116
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b310e4911a0f81060800000000000000
+      internalID: 6924549001787081019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_117
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 382
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2303a1bfac437310800000000000000
+      internalID: 1401548226525594415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_118
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 382
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354af50c020050130800000000000000
+      internalID: 3532229623408469075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_119
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 382
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841a91ed92afe1a0800000000000000
+      internalID: -6778020115190770553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_120
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 379
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112487fa025448080800000000000000
+      internalID: -9186141333243805167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_121
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 382
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e0b65aa383d400800000000000000
+      internalID: 347766363859772360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_122
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 382
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc06cc333933b480800000000000000
+      internalID: -8884694747646128974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_123
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 382
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09006028033c70990800000000000000
+      internalID: -7419747247962324848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_124
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 380
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de54c6c6e5ff610800000000000000
+      internalID: 1657147007661632887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_125
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 379
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b47993d9fd32df0800000000000000
+      internalID: -206075291559834785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_126
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 382
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f078e319138aa3380800000000000000
+      internalID: -8990688775248115953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_127
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 382
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9b4b3489766b140800000000000000
+      internalID: 4735085961895262717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_128
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 382
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101696b0c8235d90800000000000000
+      internalID: -7110294578525761505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_129
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 382
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa1ffdd5da62300800000000000000
+      internalID: 227059449929509590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_130
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 382
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ede9d062ae79620800000000000000
+      internalID: 2780948744082742897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_131
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 363
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed293d88598d0fc0800000000000000
+      internalID: -3527011919741768222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_132
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25977c30957be3cc0800000000000000
+      internalID: -3729341848472815278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_133
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade391ce1961b4710800000000000000
+      internalID: 1678460102112788186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_134
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 366
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b01119ffbfa1970800000000000000
+      internalID: 8726564303052802843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_135
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d9fb17c9ff26df0800000000000000
+      internalID: -188307187007775379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_136
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 363
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46dfdf8c1cebc720800000000000000
+      internalID: 2867645195168503372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_137
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d19b98e4b7a3530800000000000000
+      internalID: 3835513609907674380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_138
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024e307670012a50800000000000000
+      internalID: 6494472646334235138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_139
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733865270a6d8c40800000000000000
+      internalID: 5516181697523626877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_140
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 366
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e974069c4bac870800000000000000
+      internalID: 8703968006843637374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_141
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 366
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6a4d9a28ef1330800000000000000
+      internalID: 3683918289937526102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_142
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 366
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f3b79df73cf0290800000000000000
+      internalID: -7921898265644417127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_143
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 366
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d22fb068e581410800000000000000
+      internalID: 1448011210018663833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_144
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 169
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f8cd579c3af030800000000000000
+      internalID: 3529199878809383282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_145
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 169
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7619062693eb560800000000000000
+      internalID: 7331360338095466409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_146
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 169
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dbf48513cbf3a40800000000000000
+      internalID: 5350201802460478831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_147
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 166
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b242c49fb7f60f60800000000000000
+      internalID: 8000354190276838073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_148
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 167
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221bb397cfc057260800000000000000
+      internalID: 7094591066497331490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_149
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 167
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df000f9ed2bf090800000000000000
+      internalID: -7999749830316327614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_150
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 167
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d8838b633d1420800000000000000
+      internalID: 2602292696551313956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_151
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 167
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f6ebcd286bd46f0800000000000000
+      internalID: -698701694007087333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_152
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 168
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cbbb134911e180800000000000000
+      internalID: -9087954797038157789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_153
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f016716d1054476c0800000000000000
+      internalID: -4146613482712243953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_154
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e80a413ac7e0bb0800000000000000
+      internalID: -4967896299075498419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_155
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf5c9a2e6fc7270800000000000000
+      internalID: 8249740070807272945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_156
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 6
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d91d142163d4cae0800000000000000
+      internalID: -1529865559227950632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_157
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 6
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fcdd1249c64feb0800000000000000
+      internalID: -4687001928706699439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_158
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 6
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7815c5b54c309c700800000000000000
+      internalID: 560983770465587591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_159
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 6
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4f254de1f7ecc0800000000000000
+      internalID: -3681708168981820790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cavalier_160
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 7
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1ea251b385a79b0800000000000000
+      internalID: -5081652218752736825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

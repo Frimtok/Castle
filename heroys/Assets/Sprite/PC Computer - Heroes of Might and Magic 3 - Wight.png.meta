@@ -1,0 +1,4076 @@
+fileFormatVersion: 2
+guid: 68aef02ec2e642c48afc17714df9684e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3087600804613938404
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_0
+  - first:
+      213: 8196778581301776222
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_1
+  - first:
+      213: -3342751970621832193
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_2
+  - first:
+      213: -312875868227691146
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_3
+  - first:
+      213: -8862943861854795705
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_4
+  - first:
+      213: 2200884665064938583
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_5
+  - first:
+      213: -9198134005762145941
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_6
+  - first:
+      213: -1377677048173289229
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_7
+  - first:
+      213: 8640547233277766095
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_8
+  - first:
+      213: 5941271842586872988
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_9
+  - first:
+      213: 4030569981770404441
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_10
+  - first:
+      213: -4029035956643546498
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_11
+  - first:
+      213: -6505349957696436979
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_12
+  - first:
+      213: -6058583451350237559
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_13
+  - first:
+      213: -4654025740748388558
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_14
+  - first:
+      213: 5336345634772445993
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_15
+  - first:
+      213: -5470357541915538201
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_16
+  - first:
+      213: -3295616512703585301
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_17
+  - first:
+      213: -2246477191026649103
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_18
+  - first:
+      213: -3536995739943502974
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_19
+  - first:
+      213: -9189466785786314237
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_20
+  - first:
+      213: -5838181221906654977
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_21
+  - first:
+      213: 5369647725410851994
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_22
+  - first:
+      213: -216102338990405164
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_23
+  - first:
+      213: -7729693458766626822
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_24
+  - first:
+      213: 9167802485703855752
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_25
+  - first:
+      213: 2358830881815340589
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_26
+  - first:
+      213: -6751604958998537509
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_27
+  - first:
+      213: 2808359858308407339
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_28
+  - first:
+      213: -5405579646449856157
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_29
+  - first:
+      213: 1782474129723458836
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_30
+  - first:
+      213: -6920859125034411365
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_31
+  - first:
+      213: -6148009187686808845
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_32
+  - first:
+      213: -3001845700650859304
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_33
+  - first:
+      213: -9166596415947299319
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_34
+  - first:
+      213: 2981952054419821178
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_35
+  - first:
+      213: -3751694940754245326
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_36
+  - first:
+      213: 1320577507876430133
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_37
+  - first:
+      213: 289936139680466340
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_38
+  - first:
+      213: 429402764221397624
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_39
+  - first:
+      213: -1267202910401370303
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_40
+  - first:
+      213: 308059103235315472
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_41
+  - first:
+      213: -5935890952938521082
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_42
+  - first:
+      213: 1848438881191716276
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_43
+  - first:
+      213: 7623223806659857585
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_44
+  - first:
+      213: -268422466115434374
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_45
+  - first:
+      213: 7522393694530919800
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_46
+  - first:
+      213: -4524710584820388241
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_47
+  - first:
+      213: -5533298283984427404
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_48
+  - first:
+      213: -6759318891477159793
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_49
+  - first:
+      213: -182644997943497962
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_50
+  - first:
+      213: 4049286391768949146
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_51
+  - first:
+      213: 6420882311817561457
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_52
+  - first:
+      213: -5098334400423726297
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_53
+  - first:
+      213: 4321467600250979595
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_54
+  - first:
+      213: 7052581471016424910
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_55
+  - first:
+      213: -636981704663300379
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_56
+  - first:
+      213: 1541161089488585986
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_57
+  - first:
+      213: -2821979190318067520
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_58
+  - first:
+      213: -8865406244510719295
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_59
+  - first:
+      213: -4850447281266398562
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_60
+  - first:
+      213: 5148195027222346460
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_61
+  - first:
+      213: 4038120607020566193
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_62
+  - first:
+      213: 1849278062051216672
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_63
+  - first:
+      213: -8600935067894194146
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_64
+  - first:
+      213: -3914275570079069774
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_65
+  - first:
+      213: 5362353170899722864
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_66
+  - first:
+      213: -3202962170062301053
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_67
+  - first:
+      213: 4963516009932979074
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_68
+  - first:
+      213: -3574365262410489529
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_69
+  - first:
+      213: 2593539295089143704
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_70
+  - first:
+      213: -2766305089538829710
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_71
+  - first:
+      213: 6165433107463908233
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_72
+  - first:
+      213: -6354391170307751506
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_73
+  - first:
+      213: 1279301696037982902
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_74
+  - first:
+      213: -7259874424378957300
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_75
+  - first:
+      213: -4269148475690201490
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_76
+  - first:
+      213: -3497633176354635952
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_77
+  - first:
+      213: 1125641589930835552
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_78
+  - first:
+      213: 7846850147064072326
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_79
+  - first:
+      213: -538987166187317310
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_80
+  - first:
+      213: -7150395796008050631
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_81
+  - first:
+      213: 8721084993689937182
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_82
+  - first:
+      213: 7178547128761730677
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_83
+  - first:
+      213: 7702573456621169885
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_84
+  - first:
+      213: -6318438280012934690
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_85
+  - first:
+      213: -6467254540082622626
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_86
+  - first:
+      213: 2680220387411190642
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_87
+  - first:
+      213: -7618847091243279219
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_88
+  - first:
+      213: 8066501313661026547
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_89
+  - first:
+      213: -5323200862228406187
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_90
+  - first:
+      213: 7063163753173653197
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_91
+  - first:
+      213: 7129865484027694591
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_92
+  - first:
+      213: -5971340168519219857
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_93
+  - first:
+      213: 6577867431213610912
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_94
+  - first:
+      213: 7050139561424258642
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_95
+  - first:
+      213: 7837312988299427517
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_96
+  - first:
+      213: -8610188669231697267
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_97
+  - first:
+      213: 5324110015454711632
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_98
+  - first:
+      213: 4905728317041091866
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_99
+  - first:
+      213: -4183495003988095867
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_100
+  - first:
+      213: 6639909446023185430
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_101
+  - first:
+      213: 7950458591929488297
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_102
+  - first:
+      213: -9077735020623882882
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_103
+  - first:
+      213: -7274609716587621100
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_104
+  - first:
+      213: -1538173249841454759
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_105
+  - first:
+      213: -917946915954504064
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_106
+  - first:
+      213: 2720437562672218485
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_107
+  - first:
+      213: -4211361388989551495
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_108
+  - first:
+      213: 4800977343686422911
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_109
+  - first:
+      213: 4572604064692619535
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_110
+  - first:
+      213: -4468985832923427647
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_111
+  - first:
+      213: -3404246909945225059
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_112
+  - first:
+      213: -198745016976875864
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_113
+  - first:
+      213: -7017912198931093428
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_114
+  - first:
+      213: 4829118715512852135
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_115
+  - first:
+      213: 8206125725276348468
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_116
+  - first:
+      213: -7713712320775492321
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_117
+  - first:
+      213: -125359490971935852
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_118
+  - first:
+      213: -2739868630404790312
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_119
+  - first:
+      213: -2567850846503661621
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_120
+  - first:
+      213: 2639925627687236077
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_121
+  - first:
+      213: 2415149511455695005
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_122
+  - first:
+      213: -2265181107838459061
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_123
+  - first:
+      213: -7608410667373252370
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_124
+  - first:
+      213: 3414986679332850150
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_125
+  - first:
+      213: 31688011992803706
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_126
+  - first:
+      213: -6036445814669409268
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_127
+  - first:
+      213: 4164603754801161944
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_128
+  - first:
+      213: -6338340133246703529
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_129
+  - first:
+      213: -3174309388553578877
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_130
+  - first:
+      213: 3837727975676164532
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_131
+  - first:
+      213: -6860382118813562083
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_132
+  - first:
+      213: -6134873870136245389
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_133
+  - first:
+      213: 322850091313354469
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_134
+  - first:
+      213: -6095682594330244135
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_135
+  - first:
+      213: -2011629628039072402
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_136
+  - first:
+      213: 3542338022076297570
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_137
+  - first:
+      213: -3474360590237795327
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_138
+  - first:
+      213: -9134009520021703210
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_139
+  - first:
+      213: -7545958112039464997
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_140
+  - first:
+      213: 383122611423474952
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_141
+  - first:
+      213: -258730722137636391
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_142
+  - first:
+      213: 8133644996051723003
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_143
+  - first:
+      213: -5554378013069297310
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_144
+  - first:
+      213: 7035121704810508421
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_145
+  - first:
+      213: 2673691984768100528
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_146
+  - first:
+      213: -2903572774952009083
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_147
+  - first:
+      213: 2543054988565705314
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_148
+  - first:
+      213: 5781210811807942301
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_149
+  - first:
+      213: 1767185183396473881
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_150
+  - first:
+      213: 393664067140610379
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_151
+  - first:
+      213: -8303742586943588986
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_152
+  - first:
+      213: 4727731817090977021
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_153
+  - first:
+      213: 6594784280476838140
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_154
+  - first:
+      213: -8310338691443937866
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_155
+  - first:
+      213: 7933857018116576306
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_156
+  - first:
+      213: -6819194570898943351
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_157
+  - first:
+      213: -8417291211266685266
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_158
+  - first:
+      213: -6698248029039008434
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_159
+  - first:
+      213: 906203611287131439
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_160
+  - first:
+      213: -6557819889787646436
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_161
+  - first:
+      213: 3346822852507033210
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_162
+  - first:
+      213: 6543146587344146322
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_163
+  - first:
+      213: 5118834598507987316
+    second: PC Computer - Heroes of Might and Magic 3 - Wight_164
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 991
+        width: 30
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec593fa29c59da20800000000000000
+      internalID: 3087600804613938404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 990
+        width: 31
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc509f0bec0c170800000000000000
+      internalID: 8196778581301776222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 991
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff349da1bc82c91d0800000000000000
+      internalID: -3342751970621832193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 992
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1f773e0178abf0800000000000000
+      internalID: -312875868227691146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 991
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488ae9f38f700580800000000000000
+      internalID: -8862943861854795705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 990
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cdccc21fc1b8e10800000000000000
+      internalID: 2200884665064938583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 991
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b614b160bd9a95080800000000000000
+      internalID: -9198134005762145941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 991
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f02c60260281ece0800000000000000
+      internalID: -1377677048173289229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 991
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc96188dde369e770800000000000000
+      internalID: 8640547233277766095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 988
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ccb6b3343a37250800000000000000
+      internalID: 5941271842586872988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_10
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 987
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95217c52b067fe730800000000000000
+      internalID: 4030569981770404441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 854
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a3cf8e42df518c0800000000000000
+      internalID: -4029035956643546498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 856
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05c6e72eaa58b5a0800000000000000
+      internalID: -6505349957696436979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 852
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e753463769beba0800000000000000
+      internalID: -6058583451350237559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 849
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370b233f34996fb0800000000000000
+      internalID: -4654025740748388558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_15
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 879
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6157e4128e0a40800000000000000
+      internalID: 5336345634772445993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 881
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eccebf7cc26514b0800000000000000
+      internalID: -5470357541915538201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 872
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3246c1e3e9342d0800000000000000
+      internalID: -3295616512703585301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 402
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7d6d8a5e8e2d0e0800000000000000
+      internalID: -2246477191026649103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bf8944d111aeec0800000000000000
+      internalID: -3536995739943502974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 397
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c4fd65a4787080800000000000000
+      internalID: -9189466785786314237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 401
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d5e55c1d9afea0800000000000000
+      internalID: -5838181221906654977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 701
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c191a1822d48a40800000000000000
+      internalID: 5369647725410851994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 700
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d988515110400df0800000000000000
+      internalID: -216102338990405164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 703
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afffd8fb0cc9ab490800000000000000
+      internalID: -7729693458766626822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 721
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e4253a9c39a3f70800000000000000
+      internalID: 9167802485703855752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 731
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2623db70304cb020800000000000000
+      internalID: 2358830881815340589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 732
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5023bf0b7d42a0800000000000000
+      internalID: -6751604958998537509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_28
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 723
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2060fb696c49f620800000000000000
+      internalID: 2808359858308407339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 412
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361564893f58bf4b0800000000000000
+      internalID: -5405579646449856157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 409
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158d7be6ce9cb810800000000000000
+      internalID: 1782474129723458836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 404
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9dc74b4b24ff90800000000000000
+      internalID: -6920859125034411365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_32
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 401
+        width: 56
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20714a732edaaa0800000000000000
+      internalID: -6148009187686808845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 412
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40c2e5d3d4756d0800000000000000
+      internalID: -3001845700650859304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 563
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a71c5025b9c080800000000000000
+      internalID: -9166596415947299319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 561
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7290fc2895026920800000000000000
+      internalID: 2981952054419821178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 566
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23986b6245d4febc0800000000000000
+      internalID: -3751694940754245326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 558
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53168572f32a35210800000000000000
+      internalID: 1320577507876430133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 561
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5c335026f060400800000000000000
+      internalID: 289936139680466340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 584
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87abcfaf98b85f500800000000000000
+      internalID: 429402764221397624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_40
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 579
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1476f2bbaadf96ee0800000000000000
+      internalID: -1267202910401370303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 409
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0179a2a4f12764400800000000000000
+      internalID: 308059103235315472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 410
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef4a4c0aa7f9da0800000000000000
+      internalID: -5935890952938521082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_43
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 414
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e3767e59f6a910800000000000000
+      internalID: 1848438881191716276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_44
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 465
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc034f99a12bc960800000000000000
+      internalID: 7623223806659857585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 470
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a788471703f564cf0800000000000000
+      internalID: -268422466115434374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_46
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 464
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5727b539e46860800000000000000
+      internalID: 7522393694530919800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 456
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea45032bff431c0800000000000000
+      internalID: -4524710584820388241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_48
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 410
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47664d20786c533b0800000000000000
+      internalID: -5533298283984427404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80bae5d7431232a0800000000000000
+      internalID: -6759318891477159793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_50
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 411
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6391975d177df0800000000000000
+      internalID: -182644997943497962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_51
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 403
+        width: 86
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91263fe484f13830800000000000000
+      internalID: 4049286391768949146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 412
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175897c717e8b1950800000000000000
+      internalID: 6420882311817561457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_53
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 403
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723f69cffd31f39b0800000000000000
+      internalID: -5098334400423726297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_54
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 447
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c155e2efe8fb30800000000000000
+      internalID: 4321467600250979595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_55
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 435
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec59f615b7dcfd160800000000000000
+      internalID: 7052581471016424910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_56
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 404
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e60f15b38cf827f0800000000000000
+      internalID: -636981704663300379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 402
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050f9078dd436510800000000000000
+      internalID: 1541161089488585986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 290
+        width: 33
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c01c8db0e056d8d0800000000000000
+      internalID: -2821979190318067520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 317
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a866ddffb7f480800000000000000
+      internalID: -8865406244510719295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 292
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6b5e75efbfacb0800000000000000
+      internalID: -4850447281266398562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 290
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda3508d910127740800000000000000
+      internalID: 5148195027222346460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_62
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 294
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b645a51c494a0830800000000000000
+      internalID: 4038120607020566193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_63
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 292
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d4c7b7994f9a910800000000000000
+      internalID: 1849278062051216672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_64
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 344
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1067fd102753a880800000000000000
+      internalID: -8600935067894194146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_65
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 341
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b982749b13bda9c0800000000000000
+      internalID: -3914275570079069774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_66
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 341
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072eaa74cc7ea6a40800000000000000
+      internalID: 5362353170899722864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 344
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881c6850eacc83d0800000000000000
+      internalID: -3202962170062301053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_68
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 344
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bf4016383f1e440800000000000000
+      internalID: 4963516009932979074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_69
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 344
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e68c4bbd456ec0800000000000000
+      internalID: -3574365262410489529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_70
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 341
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f2eca6f3a1ef320800000000000000
+      internalID: 2593539295089143704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_71
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 290
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272dea57d2c1c99d0800000000000000
+      internalID: -2766305089538829710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_72
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 323
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ba1d0deb4009550800000000000000
+      internalID: 6165433107463908233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_73
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 326
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea18de9c5eaa0d7a0800000000000000
+      internalID: -6354391170307751506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_74
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 326
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b216e05d1ef0c110800000000000000
+      internalID: 1279301696037982902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_75
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 326
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02e2fcecaebf3b90800000000000000
+      internalID: -7259874424378957300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_76
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 326
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ec51d8410f0c4c0800000000000000
+      internalID: -4269148475690201490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 292
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fb2c84829e57fc0800000000000000
+      internalID: -3497633176354635952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_78
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 310
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ebb38ef051f9f00800000000000000
+      internalID: 1125641589930835552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 310
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c97562ac95ec60800000000000000
+      internalID: 7846850147064072326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_80
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 310
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c719ec27022588f0800000000000000
+      internalID: -538987166187317310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_81
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9306e7f68e0b4cc90800000000000000
+      internalID: -7150395796008050631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_82
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 307
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e0e07894870970800000000000000
+      internalID: 8721084993689937182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_83
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 310
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764e3d74925f9360800000000000000
+      internalID: 7178547128761730677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_84
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce142bfb905ea60800000000000000
+      internalID: 7702573456621169885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_85
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 310
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed159906cd56058a0800000000000000
+      internalID: -6318438280012934690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_86
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 308
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc752c242bf36a0800000000000000
+      internalID: -6467254540082622626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_87
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 307
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273676fed3e023520800000000000000
+      internalID: 2680220387411190642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_88
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 310
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c1d68dfea644690800000000000000
+      internalID: -7618847091243279219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_89
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 310
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ccf4e438f1ff60800000000000000
+      internalID: 8066501313661026547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_90
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 310
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550a2d2f4013026b0800000000000000
+      internalID: -5323200862228406187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_91
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 310
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69452e206650260800000000000000
+      internalID: 7063163753173653197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_92
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 310
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd0acfc1ee52f260800000000000000
+      internalID: 7129865484027694591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_93
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 291
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65046611c9812da0800000000000000
+      internalID: -5971340168519219857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_94
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a73911e397494b50800000000000000
+      internalID: 6577867431213610912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_95
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2560f9fe39027d160800000000000000
+      internalID: 7050139561424258642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_96
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 294
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe742593aab3cc60800000000000000
+      internalID: 7837312988299427517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_97
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82f9592607728880800000000000000
+      internalID: -8610188669231697267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_98
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 291
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0748c9d903e940800000000000000
+      internalID: 5324110015454711632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_99
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152fc5a9e5a41440800000000000000
+      internalID: 4905728317041091866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_100
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c0baf757d31f5c0800000000000000
+      internalID: -4183495003988095867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_101
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61409fe1672b52c50800000000000000
+      internalID: 6639909446023185430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 294
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d86d47f3b55e60800000000000000
+      internalID: 7950458591929488297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_103
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 294
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75179a3818650280800000000000000
+      internalID: -9077735020623882882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_104
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 294
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415903b51056b0b90800000000000000
+      internalID: -7274609716587621100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_105
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 294
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9512130349f47aae0800000000000000
+      internalID: -1538173249841454759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_106
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 155
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ecdd7b42cc243f0800000000000000
+      internalID: -917946915954504064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_107
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 157
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57105bcbc8fe0c520800000000000000
+      internalID: 2720437562672218485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_108
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 157
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c6b74212d3e85c0800000000000000
+      internalID: -4211361388989551495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_109
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 158
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b029157f70a240800000000000000
+      internalID: 4800977343686422911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 174
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09c28e8b27257f30800000000000000
+      internalID: 4572604064692619535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_111
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 408
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc885a0019faf1c0800000000000000
+      internalID: -4468985832923427647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_112
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 158
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906efcc87fa1c0d0800000000000000
+      internalID: -3404246909945225059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_113
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 157
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed636c57aed3df0800000000000000
+      internalID: -198745016976875864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_114
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 157
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e4dd990e5b9e90800000000000000
+      internalID: -7017912198931093428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 156
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8550d2e9740340800000000000000
+      internalID: 4829118715512852135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_116
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 13
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430aa458ed302e170800000000000000
+      internalID: 8206125725276348468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_117
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6f94638363f490800000000000000
+      internalID: -7713712320775492321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_118
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 13
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd4670532a24ef0800000000000000
+      internalID: -125359490971935852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_119
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 12
+        width: 29
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d78c714ff70af9d0800000000000000
+      internalID: -2739868630404790312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_120
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 56
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf86f992492d5cd0800000000000000
+      internalID: -2567850846503661621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_121
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 85
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de17fb71f56e2a420800000000000000
+      internalID: 2639925627687236077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_122
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 85
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9066c54fa5548120800000000000000
+      internalID: 2415149511455695005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_123
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 85
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ec5ba8c57090e0800000000000000
+      internalID: -2265181107838459061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_124
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 85
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0bce12fce796690800000000000000
+      internalID: -7608410667373252370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_125
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 85
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9435e9a48746f20800000000000000
+      internalID: 3414986679332850150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_126
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 17
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79287a3414907000800000000000000
+      internalID: 31688011992803706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_127
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 64
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048cb6938c3a3ca0800000000000000
+      internalID: -6036445814669409268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_128
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 61
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66e2bcc05abc930800000000000000
+      internalID: 4164603754801161944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_129
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 64
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586a341b31b908a0800000000000000
+      internalID: -6338340133246703529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_130
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 64
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869318ed6692f3d0800000000000000
+      internalID: -3174309388553578877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_131
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 35
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b1ceb249524530800000000000000
+      internalID: 3837727975676164532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_132
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b0da09fc60bc0a0800000000000000
+      internalID: -6860382118813562083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37304b418bc8cdaa0800000000000000
+      internalID: -6134873870136245389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_134
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e65f60927efa7400800000000000000
+      internalID: 322850091313354469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_135
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db0a6d0af8c76ba0800000000000000
+      internalID: -6095682594330244135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_136
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 35
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e657419e2814514e0800000000000000
+      internalID: -2011629628039072402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_137
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261b738b9a9e82130800000000000000
+      internalID: 3542338022076297570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_138
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 35
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c724d737798cfc0800000000000000
+      internalID: -3474360590237795327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_139
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 35
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f1105cba7d3180800000000000000
+      internalID: -9134009520021703210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_140
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 32
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf09e9c31f574790800000000000000
+      internalID: -7545958112039464997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_141
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 35
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805f0573cff115500800000000000000
+      internalID: 383122611423474952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_142
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 35
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1818e67cdc86cf0800000000000000
+      internalID: -258730722137636391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_143
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2ebcea70380e070800000000000000
+      internalID: 8133644996051723003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_144
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b3ce10a2eae2b0800000000000000
+      internalID: -5554378013069297310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_145
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 35
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580fed6bae5c1a160800000000000000
+      internalID: 7035121704810508421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_146
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b869eeb1bcda1520800000000000000
+      internalID: 2673691984768100528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_147
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5828d79e1ff64b7d0800000000000000
+      internalID: -2903572774952009083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_148
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 32
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2627eb5d90fba4320800000000000000
+      internalID: 2543054988565705314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_149
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 35
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c5796a9cfa3050800000000000000
+      internalID: 5781210811807942301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_150
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c2ea4bf8d468810800000000000000
+      internalID: 1767185183396473881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_151
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4960c22263967500800000000000000
+      internalID: 393664067140610379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_152
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 17
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b1febc1e23cc80800000000000000
+      internalID: -8303742586943588986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 19
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc050ff9074c9140800000000000000
+      internalID: 4727731817090977021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_154
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8e628cc51658b50800000000000000
+      internalID: 6594784280476838140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_155
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdac4d7dfebbac80800000000000000
+      internalID: -8310338691443937866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_156
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 16
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234149f2ce8ba1e60800000000000000
+      internalID: 7933857018116576306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_157
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982db4bdaaa5d51a0800000000000000
+      internalID: -6819194570898943351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_158
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 19
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea68e657d36cf2b80800000000000000
+      internalID: -8417291211266685266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_159
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456bab08ea0b03a0800000000000000
+      internalID: -6698248029039008434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_160
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 19
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2512f8126b739c00800000000000000
+      internalID: 906203611287131439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_161
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 19
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e47381e81fdf4a0800000000000000
+      internalID: -6557819889787646436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_162
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e57d1f6ad427e20800000000000000
+      internalID: 3346822852507033210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_163
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f05f3772dedca50800000000000000
+      internalID: 6543146587344146322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wight_164
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714c0452f0c90740800000000000000
+      internalID: 5118834598507987316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
