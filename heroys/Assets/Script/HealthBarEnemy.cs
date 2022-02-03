@@ -9,11 +9,6 @@ public class HealthBarEnemy : MonoBehaviour
     public Undead Undead;
     private void Start()
     {
-        HealthSlider = GetComponent<Slider>();
-        HealthSlider.maxValue = Undead.Health;
     }
-    private void FixedUpdate()
-    {
-        HealthSlider.value = Undead.Health;
-    }
+
 }

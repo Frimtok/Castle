@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Death
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -26,10 +26,10 @@ AnimationClip:
       value: {fileID: -3157570091633379181, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3,
         type: 3}
     - time: 0.33333334
-      value: {fileID: -3909513754334466728, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3,
+      value: {fileID: 5711474822081854530, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3,
         type: 3}
     - time: 0.5
-      value: {fileID: 5711474822081854530, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3,
+      value: {fileID: -3909513754334466728, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3,
         type: 3}
     - time: 0.6666667
       value: {fileID: 8790222466041033007, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3,
@@ -55,11 +55,12 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
     pptrCurveMapping:
     - {fileID: -1641287933887662992, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3, type: 3}
     - {fileID: -3157570091633379181, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3, type: 3}
-    - {fileID: -3909513754334466728, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3, type: 3}
     - {fileID: 5711474822081854530, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3, type: 3}
+    - {fileID: -3909513754334466728, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3, type: 3}
     - {fileID: 8790222466041033007, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3, type: 3}
     - {fileID: 5330485222503650359, guid: 4b8f6a9780f9c6e45a97a5bac01f51f3, type: 3}
   m_AnimationClipSettings:

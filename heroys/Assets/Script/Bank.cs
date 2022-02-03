@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
@@ -33,12 +31,6 @@ public class Bank : MonoBehaviour, IPointerClickHandler
         _accept = false;
         ProgressBar.value = 0;
         Invoke("TaxCollection", TimeAccept);
-    }
-    private void FixedUpdate()
-    {
-        TextMoney.text = $"{Money}";
-        textPeople.text = $"{People} / {MaxPeople}";
-        ProgressBar.value += Speed * Time.deltaTime;
     }
     private void TaxCollection()
     {

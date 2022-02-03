@@ -515,9 +515,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -527,8 +530,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -549,10 +552,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -4068,9 +4075,174 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Wight_151: 393664067140610379
+      PC Computer - Heroes of Might and Magic 3 - Wight_57: 1541161089488585986
+      PC Computer - Heroes of Might and Magic 3 - Wight_5: 2200884665064938583
+      PC Computer - Heroes of Might and Magic 3 - Wight_74: 1279301696037982902
+      PC Computer - Heroes of Might and Magic 3 - Wight_19: -3536995739943502974
+      PC Computer - Heroes of Might and Magic 3 - Wight_140: -7545958112039464997
+      PC Computer - Heroes of Might and Magic 3 - Wight_42: -5935890952938521082
+      PC Computer - Heroes of Might and Magic 3 - Wight_78: 1125641589930835552
+      PC Computer - Heroes of Might and Magic 3 - Wight_93: -5971340168519219857
+      PC Computer - Heroes of Might and Magic 3 - Wight_71: -2766305089538829710
+      PC Computer - Heroes of Might and Magic 3 - Wight_134: 322850091313354469
+      PC Computer - Heroes of Might and Magic 3 - Wight_13: -6058583451350237559
+      PC Computer - Heroes of Might and Magic 3 - Wight_4: -8862943861854795705
+      PC Computer - Heroes of Might and Magic 3 - Wight_108: -4211361388989551495
+      PC Computer - Heroes of Might and Magic 3 - Wight_121: 2639925627687236077
+      PC Computer - Heroes of Might and Magic 3 - Wight_12: -6505349957696436979
+      PC Computer - Heroes of Might and Magic 3 - Wight_152: -8303742586943588986
+      PC Computer - Heroes of Might and Magic 3 - Wight_11: -4029035956643546498
+      PC Computer - Heroes of Might and Magic 3 - Wight_163: 6543146587344146322
+      PC Computer - Heroes of Might and Magic 3 - Wight_101: 6639909446023185430
+      PC Computer - Heroes of Might and Magic 3 - Wight_96: 7837312988299427517
+      PC Computer - Heroes of Might and Magic 3 - Wight_8: 8640547233277766095
+      PC Computer - Heroes of Might and Magic 3 - Wight_133: -6134873870136245389
+      PC Computer - Heroes of Might and Magic 3 - Wight_28: 2808359858308407339
+      PC Computer - Heroes of Might and Magic 3 - Wight_112: -3404246909945225059
+      PC Computer - Heroes of Might and Magic 3 - Wight_36: -3751694940754245326
+      PC Computer - Heroes of Might and Magic 3 - Wight_82: 8721084993689937182
+      PC Computer - Heroes of Might and Magic 3 - Wight_65: -3914275570079069774
+      PC Computer - Heroes of Might and Magic 3 - Wight_98: 5324110015454711632
+      PC Computer - Heroes of Might and Magic 3 - Wight_66: 5362353170899722864
+      PC Computer - Heroes of Might and Magic 3 - Wight_104: -7274609716587621100
+      PC Computer - Heroes of Might and Magic 3 - Wight_107: 2720437562672218485
+      PC Computer - Heroes of Might and Magic 3 - Wight_69: -3574365262410489529
+      PC Computer - Heroes of Might and Magic 3 - Wight_40: -1267202910401370303
+      PC Computer - Heroes of Might and Magic 3 - Wight_114: -7017912198931093428
+      PC Computer - Heroes of Might and Magic 3 - Wight_159: -6698248029039008434
+      PC Computer - Heroes of Might and Magic 3 - Wight_156: 7933857018116576306
+      PC Computer - Heroes of Might and Magic 3 - Wight_15: 5336345634772445993
+      PC Computer - Heroes of Might and Magic 3 - Wight_147: -2903572774952009083
+      PC Computer - Heroes of Might and Magic 3 - Wight_27: -6751604958998537509
+      PC Computer - Heroes of Might and Magic 3 - Wight_143: 8133644996051723003
+      PC Computer - Heroes of Might and Magic 3 - Wight_77: -3497633176354635952
+      PC Computer - Heroes of Might and Magic 3 - Wight_109: 4800977343686422911
+      PC Computer - Heroes of Might and Magic 3 - Wight_2: -3342751970621832193
+      PC Computer - Heroes of Might and Magic 3 - Wight_141: 383122611423474952
+      PC Computer - Heroes of Might and Magic 3 - Wight_92: 7129865484027694591
+      PC Computer - Heroes of Might and Magic 3 - Wight_117: -7713712320775492321
+      PC Computer - Heroes of Might and Magic 3 - Wight_126: 31688011992803706
+      PC Computer - Heroes of Might and Magic 3 - Wight_110: 4572604064692619535
+      PC Computer - Heroes of Might and Magic 3 - Wight_115: 4829118715512852135
+      PC Computer - Heroes of Might and Magic 3 - Wight_38: 289936139680466340
+      PC Computer - Heroes of Might and Magic 3 - Wight_14: -4654025740748388558
+      PC Computer - Heroes of Might and Magic 3 - Wight_10: 4030569981770404441
+      PC Computer - Heroes of Might and Magic 3 - Wight_58: -2821979190318067520
+      PC Computer - Heroes of Might and Magic 3 - Wight_149: 5781210811807942301
+      PC Computer - Heroes of Might and Magic 3 - Wight_25: 9167802485703855752
+      PC Computer - Heroes of Might and Magic 3 - Wight_34: -9166596415947299319
+      PC Computer - Heroes of Might and Magic 3 - Wight_88: -7618847091243279219
+      PC Computer - Heroes of Might and Magic 3 - Wight_85: -6318438280012934690
+      PC Computer - Heroes of Might and Magic 3 - Wight_90: -5323200862228406187
+      PC Computer - Heroes of Might and Magic 3 - Wight_122: 2415149511455695005
+      PC Computer - Heroes of Might and Magic 3 - Wight_91: 7063163753173653197
+      PC Computer - Heroes of Might and Magic 3 - Wight_144: -5554378013069297310
+      PC Computer - Heroes of Might and Magic 3 - Wight_43: 1848438881191716276
+      PC Computer - Heroes of Might and Magic 3 - Wight_95: 7050139561424258642
+      PC Computer - Heroes of Might and Magic 3 - Wight_1: 8196778581301776222
+      PC Computer - Heroes of Might and Magic 3 - Wight_124: -7608410667373252370
+      PC Computer - Heroes of Might and Magic 3 - Wight_17: -3295616512703585301
+      PC Computer - Heroes of Might and Magic 3 - Wight_50: -182644997943497962
+      PC Computer - Heroes of Might and Magic 3 - Wight_146: 2673691984768100528
+      PC Computer - Heroes of Might and Magic 3 - Wight_130: -3174309388553578877
+      PC Computer - Heroes of Might and Magic 3 - Wight_32: -6148009187686808845
+      PC Computer - Heroes of Might and Magic 3 - Wight_6: -9198134005762145941
+      PC Computer - Heroes of Might and Magic 3 - Wight_129: -6338340133246703529
+      PC Computer - Heroes of Might and Magic 3 - Wight_153: 4727731817090977021
+      PC Computer - Heroes of Might and Magic 3 - Wight_125: 3414986679332850150
+      PC Computer - Heroes of Might and Magic 3 - Wight_67: -3202962170062301053
+      PC Computer - Heroes of Might and Magic 3 - Wight_44: 7623223806659857585
+      PC Computer - Heroes of Might and Magic 3 - Wight_64: -8600935067894194146
+      PC Computer - Heroes of Might and Magic 3 - Wight_97: -8610188669231697267
+      PC Computer - Heroes of Might and Magic 3 - Wight_100: -4183495003988095867
+      PC Computer - Heroes of Might and Magic 3 - Wight_7: -1377677048173289229
+      PC Computer - Heroes of Might and Magic 3 - Wight_86: -6467254540082622626
+      PC Computer - Heroes of Might and Magic 3 - Wight_62: 4038120607020566193
+      PC Computer - Heroes of Might and Magic 3 - Wight_26: 2358830881815340589
+      PC Computer - Heroes of Might and Magic 3 - Wight_87: 2680220387411190642
+      PC Computer - Heroes of Might and Magic 3 - Wight_22: 5369647725410851994
+      PC Computer - Heroes of Might and Magic 3 - Wight_162: 3346822852507033210
+      PC Computer - Heroes of Might and Magic 3 - Wight_123: -2265181107838459061
+      PC Computer - Heroes of Might and Magic 3 - Wight_39: 429402764221397624
+      PC Computer - Heroes of Might and Magic 3 - Wight_128: 4164603754801161944
+      PC Computer - Heroes of Might and Magic 3 - Wight_9: 5941271842586872988
+      PC Computer - Heroes of Might and Magic 3 - Wight_155: -8310338691443937866
+      PC Computer - Heroes of Might and Magic 3 - Wight_164: 5118834598507987316
+      PC Computer - Heroes of Might and Magic 3 - Wight_136: -2011629628039072402
+      PC Computer - Heroes of Might and Magic 3 - Wight_135: -6095682594330244135
+      PC Computer - Heroes of Might and Magic 3 - Wight_145: 7035121704810508421
+      PC Computer - Heroes of Might and Magic 3 - Wight_68: 4963516009932979074
+      PC Computer - Heroes of Might and Magic 3 - Wight_55: 7052581471016424910
+      PC Computer - Heroes of Might and Magic 3 - Wight_150: 1767185183396473881
+      PC Computer - Heroes of Might and Magic 3 - Wight_61: 5148195027222346460
+      PC Computer - Heroes of Might and Magic 3 - Wight_154: 6594784280476838140
+      PC Computer - Heroes of Might and Magic 3 - Wight_94: 6577867431213610912
+      PC Computer - Heroes of Might and Magic 3 - Wight_47: -4524710584820388241
+      PC Computer - Heroes of Might and Magic 3 - Wight_127: -6036445814669409268
+      PC Computer - Heroes of Might and Magic 3 - Wight_31: -6920859125034411365
+      PC Computer - Heroes of Might and Magic 3 - Wight_46: 7522393694530919800
+      PC Computer - Heroes of Might and Magic 3 - Wight_75: -7259874424378957300
+      PC Computer - Heroes of Might and Magic 3 - Wight_60: -4850447281266398562
+      PC Computer - Heroes of Might and Magic 3 - Wight_23: -216102338990405164
+      PC Computer - Heroes of Might and Magic 3 - Wight_21: -5838181221906654977
+      PC Computer - Heroes of Might and Magic 3 - Wight_24: -7729693458766626822
+      PC Computer - Heroes of Might and Magic 3 - Wight_76: -4269148475690201490
+      PC Computer - Heroes of Might and Magic 3 - Wight_70: 2593539295089143704
+      PC Computer - Heroes of Might and Magic 3 - Wight_33: -3001845700650859304
+      PC Computer - Heroes of Might and Magic 3 - Wight_102: 7950458591929488297
+      PC Computer - Heroes of Might and Magic 3 - Wight_111: -4468985832923427647
+      PC Computer - Heroes of Might and Magic 3 - Wight_18: -2246477191026649103
+      PC Computer - Heroes of Might and Magic 3 - Wight_84: 7702573456621169885
+      PC Computer - Heroes of Might and Magic 3 - Wight_0: 3087600804613938404
+      PC Computer - Heroes of Might and Magic 3 - Wight_63: 1849278062051216672
+      PC Computer - Heroes of Might and Magic 3 - Wight_49: -6759318891477159793
+      PC Computer - Heroes of Might and Magic 3 - Wight_52: 6420882311817561457
+      PC Computer - Heroes of Might and Magic 3 - Wight_158: -8417291211266685266
+      PC Computer - Heroes of Might and Magic 3 - Wight_142: -258730722137636391
+      PC Computer - Heroes of Might and Magic 3 - Wight_29: -5405579646449856157
+      PC Computer - Heroes of Might and Magic 3 - Wight_132: -6860382118813562083
+      PC Computer - Heroes of Might and Magic 3 - Wight_59: -8865406244510719295
+      PC Computer - Heroes of Might and Magic 3 - Wight_3: -312875868227691146
+      PC Computer - Heroes of Might and Magic 3 - Wight_103: -9077735020623882882
+      PC Computer - Heroes of Might and Magic 3 - Wight_81: -7150395796008050631
+      PC Computer - Heroes of Might and Magic 3 - Wight_139: -9134009520021703210
+      PC Computer - Heroes of Might and Magic 3 - Wight_137: 3542338022076297570
+      PC Computer - Heroes of Might and Magic 3 - Wight_116: 8206125725276348468
+      PC Computer - Heroes of Might and Magic 3 - Wight_53: -5098334400423726297
+      PC Computer - Heroes of Might and Magic 3 - Wight_157: -6819194570898943351
+      PC Computer - Heroes of Might and Magic 3 - Wight_41: 308059103235315472
+      PC Computer - Heroes of Might and Magic 3 - Wight_30: 1782474129723458836
+      PC Computer - Heroes of Might and Magic 3 - Wight_99: 4905728317041091866
+      PC Computer - Heroes of Might and Magic 3 - Wight_131: 3837727975676164532
+      PC Computer - Heroes of Might and Magic 3 - Wight_80: -538987166187317310
+      PC Computer - Heroes of Might and Magic 3 - Wight_105: -1538173249841454759
+      PC Computer - Heroes of Might and Magic 3 - Wight_148: 2543054988565705314
+      PC Computer - Heroes of Might and Magic 3 - Wight_160: 906203611287131439
+      PC Computer - Heroes of Might and Magic 3 - Wight_48: -5533298283984427404
+      PC Computer - Heroes of Might and Magic 3 - Wight_83: 7178547128761730677
+      PC Computer - Heroes of Might and Magic 3 - Wight_138: -3474360590237795327
+      PC Computer - Heroes of Might and Magic 3 - Wight_118: -125359490971935852
+      PC Computer - Heroes of Might and Magic 3 - Wight_119: -2739868630404790312
+      PC Computer - Heroes of Might and Magic 3 - Wight_45: -268422466115434374
+      PC Computer - Heroes of Might and Magic 3 - Wight_37: 1320577507876430133
+      PC Computer - Heroes of Might and Magic 3 - Wight_20: -9189466785786314237
+      PC Computer - Heroes of Might and Magic 3 - Wight_73: -6354391170307751506
+      PC Computer - Heroes of Might and Magic 3 - Wight_51: 4049286391768949146
+      PC Computer - Heroes of Might and Magic 3 - Wight_106: -917946915954504064
+      PC Computer - Heroes of Might and Magic 3 - Wight_113: -198745016976875864
+      PC Computer - Heroes of Might and Magic 3 - Wight_79: 7846850147064072326
+      PC Computer - Heroes of Might and Magic 3 - Wight_120: -2567850846503661621
+      PC Computer - Heroes of Might and Magic 3 - Wight_72: 6165433107463908233
+      PC Computer - Heroes of Might and Magic 3 - Wight_54: 4321467600250979595
+      PC Computer - Heroes of Might and Magic 3 - Wight_35: 2981952054419821178
+      PC Computer - Heroes of Might and Magic 3 - Wight_89: 8066501313661026547
+      PC Computer - Heroes of Might and Magic 3 - Wight_161: -6557819889787646436
+      PC Computer - Heroes of Might and Magic 3 - Wight_56: -636981704663300379
+      PC Computer - Heroes of Might and Magic 3 - Wight_16: -5470357541915538201
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

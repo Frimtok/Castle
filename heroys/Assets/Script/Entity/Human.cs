@@ -73,54 +73,10 @@ public class Human : MonoBehaviour, IProperty
     public void Attack()
     {
        
-        _isAttack = true;
-            if (Undead != null)
-            {
-            if (_isArcher)
-            {
-                _animator.Play("Idle");
-                StartCoroutine(TamiDamage());
-            }
-            else
-            {
-
-
-                if (Undead.Health > 0)
-                {
-                    _animator.Play("Attack");
-                    StartCoroutine(TamiDamage());
-                }
-                else
-                {
-                    _isAttack = false;
-                }
-            }
-            }
         
 
     }
-    IEnumerator TamiDamage()
-    {
-        
-        yield return new WaitForSeconds(_timeAttack);
-        if (Undead != null)
-        {
-            
-            if (_isArcher == true)
-            {
-                Debug.Log("dab dab");
-                Arrow.Spawn(SpawnArrow);
-                _animator.Play("Attack");
-                Attack();
-            }
-            else
-            {
-                Undead.TakeDamage(_powerAttack);
-                Attack();
-            }
-        }
-
-    }
+  
     private void Update()
     {
         if (Undead == null)

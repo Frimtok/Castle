@@ -479,9 +479,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -490,9 +493,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -513,10 +516,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -3759,9 +3766,161 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Skeleton_149: -5826801844624052602
+      Skeleton_40: 1059038780391459240
+      Skeleton_57: -5785505913228668344
+      Skeleton_0: 4354231566380549168
+      Skeleton_130: 1598012308691877158
+      Skeleton_59: 2638619910362296854
+      Skeleton_27: 7905454227381942895
+      Skeleton_43: -8401934482964546336
+      Skeleton_106: 5330485222503650359
+      Skeleton_89: -4927955031370611444
+      Skeleton_35: -3069104960665677177
+      Skeleton_2: 6682473901004932845
+      Skeleton_51: 8321565166790145690
+      Skeleton_114: -4029184544876110361
+      Skeleton_116: 5733672345446322732
+      Skeleton_3: -6895646428441557691
+      Skeleton_71: -5263609820782906396
+      Skeleton_86: -2963154061454587453
+      Skeleton_24: 4120830285991997394
+      Skeleton_48: 3613624386720979140
+      Skeleton_122: 8196411814364100851
+      Skeleton_76: -4974448248231080194
+      Skeleton_28: 6331079080334612255
+      Skeleton_65: 7055229363636996708
+      Skeleton_110: -8919464742276375147
+      Skeleton_131: 7424279104212328850
+      Skeleton_75: -5619117320994284432
+      Skeleton_142: 3868537228568413470
+      Skeleton_47: -9130717222450327066
+      Skeleton_46: 2867173956495451668
+      Skeleton_108: 8178827789644694172
+      Skeleton_20: 8495289983822508492
+      Skeleton_4: 8681928648562347177
+      Skeleton_81: -1507794266769006590
+      Skeleton_119: 1756190910905819038
+      Skeleton_120: -9197812316346137692
+      Skeleton_15: 4520074865302796247
+      Skeleton_70: 7646568922302276409
+      Skeleton_141: 2230016252433842643
+      Skeleton_150: -1144246602604546047
+      Skeleton_64: -495194843530008068
+      Skeleton_12: -7000201611338815235
+      Skeleton_31: 8961573100589221887
+      Skeleton_73: -1503228685446725506
+      Skeleton_90: 2969872864819987641
+      Skeleton_101: 8698442500851691334
+      Skeleton_102: 8790222466041033007
+      Skeleton_39: -5286596291751946912
+      Skeleton_92: 7724987786746712850
+      Skeleton_128: 5877408792024305796
+      Skeleton_80: 7063656736822220645
+      Skeleton_134: -175312888683694547
+      Skeleton_87: 1156774858057045394
+      Skeleton_84: -8621015748736777433
+      Skeleton_129: 5983418150733079081
+      Skeleton_41: -2988870146539486696
+      Skeleton_23: 8661365367480307861
+      Skeleton_61: -4134259384117529440
+      Skeleton_69: 1721479188328007046
+      Skeleton_111: -5657078746275239772
+      Skeleton_37: -5902943749743226754
+      Skeleton_38: 1488641315820745408
+      Skeleton_54: 4771609383075762441
+      Skeleton_148: -1177732935075152738
+      Skeleton_49: 5998215796829641582
+      Skeleton_53: -833223488684683916
+      Skeleton_83: -6809176175705866043
+      Skeleton_16: -1325205120640645288
+      Skeleton_72: 6346683665263017047
+      Skeleton_18: 2058306284268228198
+      Skeleton_79: -35730151575279127
+      Skeleton_77: -99819557125522091
+      Skeleton_145: 5606157255171359920
+      Skeleton_132: 748970081416976272
+      Skeleton_9: -1443268486790046223
+      Skeleton_44: 4086840935706743841
+      Skeleton_140: -2851021985114784434
+      Skeleton_62: -4981888006929801756
+      Skeleton_91: -8872523822008612373
+      Skeleton_93: -4618934505873435713
+      Skeleton_135: -6953003719989171108
+      Skeleton_56: 1648888104231168963
+      Skeleton_117: 5995109274848828660
+      Skeleton_100: 5711474822081854530
+      Skeleton_63: -2666046939693064233
+      Skeleton_112: 3297412481504491713
+      Skeleton_17: 6219686596316222553
+      Skeleton_103: -3157570091633379181
+      Skeleton_126: 5607939780123549496
+      Skeleton_25: -5758231261664834141
+      Skeleton_98: -1424376432857670686
+      Skeleton_139: -821169052645465709
+      Skeleton_36: 500929819819202992
+      Skeleton_146: 3117261357254766468
+      Skeleton_8: -9021820611684853211
+      Skeleton_33: -2471400180448060304
+      Skeleton_66: 5314335211881415218
+      Skeleton_13: -4022789504429121826
+      Skeleton_74: 7611591749005275257
+      Skeleton_136: 7746553453379927859
+      Skeleton_109: 5109628590071190775
+      Skeleton_5: -6534455043122499310
+      Skeleton_11: -2164511808432914653
+      Skeleton_45: -2815112926582501747
+      Skeleton_21: -1155214034691015396
+      Skeleton_6: -7021505876318606439
+      Skeleton_88: -5235573019812558351
+      Skeleton_118: 3183696557421185042
+      Skeleton_42: 3909855585058890174
+      Skeleton_29: -8298240164133097545
+      Skeleton_34: 5832410620564043989
+      Skeleton_97: -66550035997731000
+      Skeleton_99: -1641287933887662992
+      Skeleton_115: -5118056075066680617
+      Skeleton_52: 4037002289849562785
+      Skeleton_30: -6353374511362956258
+      Skeleton_151: -820614177408189922
+      Skeleton_133: 8484689586952904268
+      Skeleton_144: 8949385057809694738
+      Skeleton_138: 4438426160416520344
+      Skeleton_107: -2259620738507890722
+      Skeleton_1: 5809030516613042957
+      Skeleton_127: -730640225119505973
+      Skeleton_82: -2790920459155183883
+      Skeleton_55: -1044080572991802842
+      Skeleton_32: 6128346046120532910
+      Skeleton_26: -2982681959859218868
+      Skeleton_125: -1167811380258385947
+      Skeleton_143: -1790005466727781769
+      Skeleton_10: -3968840907078709152
+      Skeleton_113: 7568152768501904055
+      Skeleton_147: -2009493158578956344
+      Skeleton_22: 380626319886666678
+      Skeleton_78: 5897333118298317742
+      Skeleton_14: 8650110944895953673
+      Skeleton_95: 3372154797669045273
+      Skeleton_105: 6470213440812234153
+      Skeleton_7: 653362398722190026
+      Skeleton_137: -5514440896400444274
+      Skeleton_19: -6896880325500990939
+      Skeleton_50: -8844942649249798092
+      Skeleton_60: -2603958243179749409
+      Skeleton_85: 2302383733527792689
+      Skeleton_123: 1105861754989165876
+      Skeleton_58: 8365292636790461752
+      Skeleton_124: 7862762968751226449
+      Skeleton_104: -3909513754334466728
+      Skeleton_96: -6561599460216966157
+      Skeleton_121: 5286269216580002458
+      Skeleton_94: -1314248931861395100
+      Skeleton_68: -2012381435366341677
+      Skeleton_67: 4992314243609881939
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
