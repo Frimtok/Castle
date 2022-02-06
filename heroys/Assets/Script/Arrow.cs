@@ -34,7 +34,6 @@ public class Arrow : MonoBehaviour
             var Player1 = collision.gameObject;
             Undead = Player1.GetComponent<Undead>();
             Destroy(gameObject);
-            Undead.TakeDamage(Human._powerAttack);
         }
 
     }

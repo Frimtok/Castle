@@ -13,16 +13,11 @@ public class Shop : MonoBehaviour,IPointerClickHandler
    public Text TextCoin;
     public void OnPointerClick(PointerEventData eventData)
     {
-      if (Bank.Money >= Human.Cost)
-      {
-        Bank.Money -= Human.Cost;
-        Instantiate(human, Spawn.position, transform.rotation);
-      }
+
 
     }
     private void FixedUpdate()
     {
-        TextCoin.text = $"{Human.Cost}";
     }
 
 

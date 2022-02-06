@@ -9,9 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2984228232488650302}
-  - component: {fileID: 2984228232488650303}
-  - component: {fileID: 2984228232488650272}
-  - component: {fileID: 2984228232488650273}
   m_Layer: 0
   m_Name: SpawnUndead
   m_TagString: Untagged
@@ -29,55 +26,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 16.13, y: -3.44, z: -2.3331609}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2984228232488650303
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2984228232488650300}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01269ebe0d7592149b1223537aaca468, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Wave: 0
-  TimeWave: 40
-  NumberEnemies: 1
-  Enemy: {fileID: 7905134261766911891, guid: a598e9caa05c2fa4b9ca77e7f32680b2, type: 3}
---- !u!114 &2984228232488650272
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2984228232488650300}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01269ebe0d7592149b1223537aaca468, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Wave: 0
-  TimeWave: 10
-  NumberEnemies: 1
-  Enemy: {fileID: 8770273222218315708, guid: ddc8eb2169ed4a94c883f8dea698e317, type: 3}
---- !u!114 &2984228232488650273
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2984228232488650300}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01269ebe0d7592149b1223537aaca468, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Wave: 0
-  TimeWave: 50
-  NumberEnemies: 2
-  Enemy: {fileID: 8770273222218315708, guid: ddc8eb2169ed4a94c883f8dea698e317, type: 3}

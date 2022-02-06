@@ -1,14 +1,19 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-public abstract class Undead : MonoBehaviour
+public abstract class Undead : Battler
 {
-    protected abstract void Move(Vector2 vector, float speed);
-    public abstract void TakeDamage(int damage); 
-    protected virtual void RedColorEnemies(SpriteRenderer spriteRenderer, Color color)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        spriteRenderer.material.color = color;
+        if (collision.gameObject.TryGetComponent(out Human human))
+        {
+            _attackPurpose = human.gameObject;
+            _BattlerAttack = human;
+        }
+        if (collision.gameObject.TryGetComponent(out Castle castle))
+        {
+            _attackPurpose = castle.gameObject;
+            _castleAttack = castle;
+        }
     }
-
 }

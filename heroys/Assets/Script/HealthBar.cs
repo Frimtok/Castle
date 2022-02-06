@@ -10,11 +10,5 @@ public class HealthBar : MonoBehaviour
     private void Start()
     {
         HealthSlider = GetComponent<Slider>();
-        HealthSlider.maxValue = Human.Health;
     }
-    private void FixedUpdate()
-    {
-        HealthSlider.value = Human.Health;
-    }
-
 }

@@ -519,6 +519,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3432,7 +3444,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Pikeman_4: 6659258615353625465
-      Pikeman_120: 8819025894036180366
       Pikeman_121: 2524025167949938954
       Pikeman_90: 5873633060018268588
       Pikeman_50: -8609680493767102408
@@ -3456,22 +3467,22 @@ TextureImporter:
       Pikeman_11: 8300153080493461194
       Pikeman_10: -5822146846145474311
       Pikeman_43: 9150833452343949067
-      Pikeman_107: 1349500789950928376
-      Pikeman_71: -4569006750514155658
-      Pikeman_92: -4624979651222175219
       Pikeman_112: 6340645771345364122
-      Pikeman_24: -7541503238415622763
+      Pikeman_92: -4624979651222175219
+      Pikeman_71: -4569006750514155658
+      Pikeman_137: 19536521344227590
       Pikeman_115: -2251609422101213048
       Pikeman_128: 4163436614947317816
-      Pikeman_137: 19536521344227590
+      Pikeman_107: 1349500789950928376
+      Pikeman_24: -7541503238415622763
       Pikeman_23: 1933242593399442063
       Pikeman_33: 2552573084999041635
       Pikeman_47: 5505539911751509767
       Pikeman_51: 1471401541683425769
-      Pikeman_54: 5947047392214430712
       Pikeman_130: -2466284238276124408
       Pikeman_124: -437710610561180279
       Pikeman_25: 9012500998702636687
+      Pikeman_54: 5947047392214430712
       Pikeman_81: 4935682337252272176
       Pikeman_135: 4798772524676636599
       Pikeman_136: 6878749110560845326
@@ -3507,10 +3518,10 @@ TextureImporter:
       Pikeman_66: 7918866611267032143
       Pikeman_7: -4661059779878522757
       Pikeman_6: -2104282796878672656
-      Pikeman_18: 3161008424628053660
+      Pikeman_114: 5801735557249408593
       Pikeman_30: 1896357359751526734
       Pikeman_19: 820313737324245408
-      Pikeman_114: 5801735557249408593
+      Pikeman_18: 3161008424628053660
       Pikeman_16: 1174513548917415300
       Pikeman_84: 7869203834899736915
       Pikeman_93: 1674786162187922107
@@ -3548,16 +3559,17 @@ TextureImporter:
       Pikeman_88: -511089008917228547
       Pikeman_36: 6119699382482968593
       Pikeman_98: -9087131547678972691
+      Pikeman_120: 8819025894036180366
       Pikeman_52: 7424818689242310877
       Pikeman_55: -6325917447653420573
-      Pikeman_123: -2756094727508638972
       Pikeman_29: 2361256686591411143
+      Pikeman_123: -2756094727508638972
       Pikeman_110: -8744573519483070162
       Pikeman_5: -1188273781320548863
-      Pikeman_94: 9214363196657245287
       Pikeman_111: 7219314279047169755
-      Pikeman_113: 4718161489426217678
+      Pikeman_94: 9214363196657245287
       Pikeman_65: -420704810148955857
+      Pikeman_113: 4718161489426217678
       Pikeman_0: -662771944358666601
       Pikeman_63: -675358431111328043
       Pikeman_76: 4088346919329774351
