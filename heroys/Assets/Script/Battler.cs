@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class Battler : MonoBehaviour
 {
+    public delegate void View(int value);
+    public event View OnView;
     [SerializeField] private float _speed;
     [SerializeField] private float _attackDelay;
     [SerializeField] private int _health;
@@ -29,6 +31,10 @@ public class Battler : MonoBehaviour
     }
     public virtual void Attack()
     {
+        if (_health <= 0)
+        {
+            StartCoroutine(StateDeath());
+        }
         if (_castleAttack != null)
         {
             _castleAttack.TakeDamage(_damage);
@@ -44,11 +50,8 @@ public class Battler : MonoBehaviour
     }
     protected virtual void TakeDamage(int damage)
     {
-        if (_health <= 0)
-        {
-            StartCoroutine(StateDeath());
-        }
         _health -= damage;
+        OnView?.Invoke(_health);
     }
     protected virtual void Zeroize()
     {
@@ -61,6 +64,14 @@ public class Battler : MonoBehaviour
         _animator = GetComponent<Animator>();
         _boxCollider2D = GetComponent<BoxCollider2D>();
         StartCoroutine(StateMove());
+    }
+    private void NulledAttack()
+    {
+        _attackPurpose = null;
+    }
+    public int GetHealth()
+    {
+        return _health;
     }
     private IEnumerator StateIdle()
     {
@@ -96,8 +107,8 @@ public class Battler : MonoBehaviour
         {
             if (timer >= _attackDelay)
             {
-                _animator.CrossFade(AttackAnimation, _speedAnimation);
                 Attack();
+                _animator.CrossFade(AttackAnimation, _speedAnimation);
                 timer = 0;
             }
             else
@@ -115,6 +126,7 @@ public class Battler : MonoBehaviour
     private IEnumerator StateDeath()
     {
         _nowState = state.death;
+        _animator.StopPlayback();
         _animator.CrossFade(DeathAnimation, _speedAnimation);
         Destroy(gameObject, _attackDelay);
         Zeroize();

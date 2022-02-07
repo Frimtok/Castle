@@ -1,14 +1,20 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
-
-public class HealthBar : MonoBehaviour
+[RequireComponent(typeof(Slider))]
+public class HealthBar : InterfaceUI
 {
-    private Slider HealthSlider;
-    public Human Human;
+    private Slider _healthSlider;
+    Battler _battler;
+    private void ViewHealth(int health)
+    {
+        _healthSlider.value = health;
+    }
     private void Start()
     {
-        HealthSlider = GetComponent<Slider>();
+        _healthSlider = GetComponent<Slider>();
+        _battler = GetComponentInParent<Battler>();
+        _healthSlider.maxValue = _battler.GetHealth();
+        _healthSlider.value = _battler.GetHealth();
+        _battler.OnView += ViewHealth;
     }
 }

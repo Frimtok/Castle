@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 public abstract class Human : Battler
 {
+   
     protected override void Move(float speed)
     {
         base.Move(-speed);
