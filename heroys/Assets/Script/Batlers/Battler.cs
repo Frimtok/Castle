@@ -31,10 +31,6 @@ public class Battler : MonoBehaviour
     }
     public virtual void Attack()
     {
-        if (_health <= 0)
-        {
-            StartCoroutine(StateDeath());
-        }
         if (_castleAttack != null)
         {
             _castleAttack.TakeDamage(_damage);
@@ -105,6 +101,10 @@ public class Battler : MonoBehaviour
         _nowState = state.attack;
         while (_nowState == state.attack)
         {
+            if (_health <= 0)
+            {
+                StartCoroutine(StateDeath());
+            }
             if (timer >= _attackDelay)
             {
                 Attack();
@@ -126,6 +126,8 @@ public class Battler : MonoBehaviour
     private IEnumerator StateDeath()
     {
         _nowState = state.death;
+        _boxCollider2D.isTrigger = true;
+        _rigidbody.bodyType = RigidbodyType2D.Static;
         _animator.StopPlayback();
         _animator.CrossFade(DeathAnimation, _speedAnimation);
         Destroy(gameObject, _attackDelay);

@@ -13,7 +13,7 @@ public class Task : MonoBehaviour
     private int _finalWave;
     public GameObject Victory;
     public GameObject Defeat;
-public enum TypePurpose
+    public enum TypePurpose
     {
         Accumulation,
         Destroy,
@@ -26,10 +26,7 @@ public enum TypePurpose
     }
     private void Accumulation()
     {
-        if (Bank.Money == _accumulation)
-        {
-            Win();
-        }
+        Debug.Log("nun");
     }
     private void Destroy()
     {

@@ -1,50 +1,77 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using System.Collections;
 
 public class Bank : MonoBehaviour, IPointerClickHandler
 {
-    public Text textPeople;
-    public int People = 5;
-    private bool _accept;
-    private float Speed = 1f;
-    public int CostPeople;
-    public float TimeAccept;
-    public Slider ProgressBar;
-    private Canvas CanvasBar;
-    public int MaxPeople;
-    public int Money = 10;
-    public Text TextMoney;
+    [SerializeField]private float _speed;
+    [SerializeField]private float _timer;
+    [SerializeField]private int _addition;
+    [SerializeField]private int _money;
+    [SerializeField] private int _startMoney;
+    public delegate void MoneySlider(float moneySpeed);
+    public delegate void Money(int moneySpeed);
+    public event MoneySlider ViewSpeedMoney;
+    public event Money  ViewMoney;
+    [SerializeField]private SpawnPoint _spawnPoint;
+    private bool _isMax;
+
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (_accept)
+        if (_isMax)
         {
-            _accept = false;
-            ProgressBar.value = 0;
-            Money += People;
-            Invoke("TaxCollection", TimeAccept);
+            AddMoney(_addition);
+            StartCoroutine(WaitingAdd());
         }
     }
     private void Start()
     {
-        TimeAccept = 4;
-        _accept = false;
-        ProgressBar.value = 0;
-        Invoke("TaxCollection", TimeAccept);
+        StartCoroutine(WaitingAdd());
+        AddMoney(_startMoney);
     }
-    private void TaxCollection()
+    private IEnumerator WaitingAdd()
     {
-        Debug.Log("i nalog");
-        _accept = true;
-        
-    }
-
-    private void AddPeople()
-    {
-        if (Money >= CostPeople)
+        float timer = 0;
+        _isMax = false;
+        ViewSpeedMoney?.Invoke(timer);
+        while (_isMax == false)
         {
-            People++;
+            if (timer >= _timer)
+            {
+                timer = 0;
+                _isMax = true;
+                 yield break;
+            }
+            else
+            {
+                timer += Time.deltaTime;
+                ViewSpeedMoney?.Invoke(timer);
+            }
+            yield return null;
         }
     }
+    private void AddMoney(int addition)
+    {
+        _money++;
+        _money += addition;
+        ViewMoney?.Invoke(_money);
+    }
+    public float GetTimer()
+    {
+        return _timer;
+    }
+    public void DecrementMoney(int price)
+    {
+        _money -= price;
+        ViewMoney?.Invoke(_money);
+        Debug.Log(_money);
+    }
+    public void AddAddition()
+    {
+        Debug.Log("a");
+        _addition++;
+    }
+    public int GetMoney() => _money;
 }
 
