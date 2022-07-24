@@ -5,7 +5,7 @@ using UnityEngine;
 public class WorkerButton : HumanButton
 {
     [SerializeField] private int _maxPeasants;
-    private int _nowPeasants;
+    [SerializeField]private int _nowPeasants;
     public delegate void Peasants(int now,int max);
     public event Peasants ViewPeasants;
     private Bank _bank;

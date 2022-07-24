@@ -14,7 +14,6 @@ public class Bank : MonoBehaviour, IPointerClickHandler
     public delegate void Money(int moneySpeed);
     public event MoneySlider ViewSpeedMoney;
     public event Money  ViewMoney;
-    [SerializeField]private SpawnPoint _spawnPoint;
     private bool _isMax;
 
     public void OnPointerClick(PointerEventData eventData)
@@ -65,11 +64,9 @@ public class Bank : MonoBehaviour, IPointerClickHandler
     {
         _money -= price;
         ViewMoney?.Invoke(_money);
-        Debug.Log(_money);
     }
     public void AddAddition()
     {
-        Debug.Log("a");
         _addition++;
     }
     public int GetMoney() => _money;

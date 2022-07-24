@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: d9e6bc80be3db084e841fb5da6c40f60
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u0421avalryman_0"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 875
+        width: 96
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9887ab4a9b36d464795225263334a049
+      internalID: 269619196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_1"
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 875
+        width: 97
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6fbb1e0b2f7a41a661212051c53e6
+      internalID: -968947069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_2"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 893
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea684cf6244d64e965624f7650400f
+      internalID: 416104163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_3"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 698
+        width: 97
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfff4b96044984cacbc0d33e8128e3
+      internalID: 862037980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_4"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 698
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e1210b1f0cd449be35846b4a99ba0
+      internalID: 630180573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_5"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 707
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e9731bd35edef47842698300e445c9
+      internalID: 545379003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_6"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 703
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40c4125dba73f459038dae5daa8a89
+      internalID: 1971181147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_7"
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 702
+        width: 97
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ed8e37bd69424c8517f62ec975a23
+      internalID: -1253648177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_8"
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 698
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216b4dcb414a88847a1986986d6c88e4
+      internalID: -1828881125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_9"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 704
+        width: 97
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acabf0e17d4a4f478ce6fedaa14c386
+      internalID: -1790530300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_10"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 504
+        width: 89
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd79e1d71953543b77b201ea6eb7a9
+      internalID: 367335984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_11"
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 509
+        width: 105
+        height: 108
+      alignment: 9
+      pivot: {x: 0.37758934, y: 0.5656111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f83ac0634b224abda1d46feda4b4f
+      internalID: -311940702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_12"
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 519
+        width: 126
+        height: 106
+      alignment: 9
+      pivot: {x: 0.33334205, y: 0.5017913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfab2a8633dbc4faa660d21eb1b8d9
+      internalID: 1532601694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_13"
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 524
+        width: 128
+        height: 102
+      alignment: 9
+      pivot: {x: 0.33309317, y: 0.62124574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e109f8cc9ee346bca90f8bc9b6a50
+      internalID: 982015067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_14"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 349
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79d8273d30cfb44a156f69ffda7122
+      internalID: -1878480290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_15"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 358
+        width: 107
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5052907, y: 0.6905684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0677a7a6a2741c34a9342b899bb623c4
+      internalID: -720374975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_16"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 350
+        width: 103
+        height: 82
+      alignment: 9
+      pivot: {x: 0.43404648, y: 0.71401346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f610bd6f081f4ca8991ec534623b6
+      internalID: -1476723508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_17"
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 341
+        width: 103
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47801548, y: 0.74142504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d4a21aa77e7440b494e890011ac05
+      internalID: -167134733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u0421avalryman_18"
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 350
+        width: 103
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68588346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91c689830334345b350f01bb8f5ed4
+      internalID: -566454357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u0421avalryman_9": -1790530300
+      "\u0421avalryman_10": 367335984
+      "\u0421avalryman_16": -1476723508
+      "\u0421avalryman_15": -720374975
+      "\u0421avalryman_6": 1971181147
+      "\u0421avalryman_4": 630180573
+      "\u0421avalryman_18": -566454357
+      "\u0421avalryman_14": -1878480290
+      "\u0421avalryman_2": 416104163
+      "\u0421avalryman_7": -1253648177
+      "\u0421avalryman_8": -1828881125
+      "\u0421avalryman_11": -311940702
+      "\u0421avalryman_12": 1532601694
+      "\u0421avalryman_3": 862037980
+      "\u0421avalryman_1": -968947069
+      "\u0421avalryman_13": 982015067
+      "\u0421avalryman_0": 269619196
+      "\u0421avalryman_5": 545379003
+      "\u0421avalryman_17": -167134733
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

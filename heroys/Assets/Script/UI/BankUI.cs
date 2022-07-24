@@ -7,7 +7,7 @@ public class BankUI : InterfaceUI
 {
     private Slider _moneyBar;
     private Text _moneyText;
-    [SerializeField]private Bank Bank;
+    private Bank Bank;
     private void TimerMoney(float speed)
     {
         _moneyBar.value = speed;

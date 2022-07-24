@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 48694f61881e5ec469321b0cf77930d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Huskarl_0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 814
+        width: 53
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b07b686e4175a409b3cd4a976e22ee
+      internalID: -578627687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 814
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cbc33c70fd7d44f8d170350194d3eb
+      internalID: -1380727585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_2
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 805
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d04d3f008870438224e48720bfccd
+      internalID: -1829421213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 805
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c01f0846568b24798255593dae1900
+      internalID: -930218707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 663
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2a3f5766ecbeb42a4db25ef07fbd8a
+      internalID: -1041256513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 678
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d240c4e9bf044988beef14057afa3
+      internalID: 165002186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_6
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 679
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fa085fcceec024d8b7fabd5ec999a6
+      internalID: -420655188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_7
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 678
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e441852160d13a548a47a8f4318688f3
+      internalID: 1978438827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_8
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 677
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02486afde3d3def449fab58c635ec39e
+      internalID: -865543844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_9
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 674
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3744e9705a5ebc54c8c8d22ff88ef676
+      internalID: 1950922113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_10
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 492
+        width: 53
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464d21ef78e6584fae2c1a1e4e6590b
+      internalID: -1039388230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 494
+        width: 55
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bdf1490f450d94595c78f75bde8df4
+      internalID: 1448687721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 507
+        width: 73
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5502085, y: 0.506599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba3506e2ac1b040811b739d89e86c0
+      internalID: 1574934299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_13
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 503
+        width: 71
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50484145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0225d4d6c7563c54c8ccd8f3b2de63bd
+      internalID: -391959029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_14
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 498
+        width: 55
+        height: 139
+      alignment: 9
+      pivot: {x: 0.4388583, y: 0.4305073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daaee7023b7cbe48a66e3c6353485ac
+      internalID: -772544199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_15
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 493
+        width: 77
+        height: 116
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e734456dbe4924584dbfcc76379e68
+      internalID: 1972105288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_16
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 489
+        width: 56
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6d9ca9dbe69747b7bc8ce44e0e5bc
+      internalID: 1146844400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_17
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 494
+        width: 55
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4054fc8a891e9b4984679d942fde13f
+      internalID: 1146126184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 275
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d3509309d65864f92bd9494c6197cd
+      internalID: 918753816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 275
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5de8b616a165004da4c70dd3ca3b298
+      internalID: 1365767222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_20
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 272
+        width: 89
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c158bfe618c144a9f47e22e4d7879
+      internalID: -612994473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_21
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 279
+        width: 108
+        height: 55
+      alignment: 9
+      pivot: {x: 0.51142657, y: 0.9702836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469fc1757c2cdf48a5fdaa684032d62
+      internalID: 1159689167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_22
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 275
+        width: 107
+        height: 53
+      alignment: 9
+      pivot: {x: 0.505767, y: 1.2438176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a61dbc9fdea1a439fa6f6545bdad7a
+      internalID: 498844154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huskarl_23
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 279
+        width: 107
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4827858, y: 1.3083477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77036b45c4a89bd45b06ebfc0bf89ef9
+      internalID: -245992730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Huskarl_2: -1829421213
+      Huskarl_7: 1978438827
+      Huskarl_20: -612994473
+      Huskarl_0: -578627687
+      Huskarl_9: 1950922113
+      Huskarl_13: -391959029
+      Huskarl_4: -1041256513
+      Huskarl_5: 165002186
+      Huskarl_16: 1146844400
+      Huskarl_18: 918753816
+      Huskarl_23: -245992730
+      Huskarl_10: -1039388230
+      Huskarl_21: 1159689167
+      Huskarl_15: 1972105288
+      Huskarl_19: 1365767222
+      Huskarl_14: -772544199
+      Huskarl_22: 498844154
+      Huskarl_12: 1574934299
+      Huskarl_3: -930218707
+      Huskarl_6: -420655188
+      Huskarl_8: -865543844
+      Huskarl_17: 1146126184
+      Huskarl_1: -1380727585
+      Huskarl_11: 1448687721
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

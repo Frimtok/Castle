@@ -8,6 +8,7 @@ public class WorkerButtonUI : InterfaceUI
     [SerializeField] private Text _maxWorkerText;
     [SerializeField] private Text _nowWorkerpriceText;
     WorkerButton _workerButton;
+
     private void OnEnable()
     {
         _workerButton = GetComponentInChildren<WorkerButton>();
@@ -16,6 +17,6 @@ public class WorkerButtonUI : InterfaceUI
     private void ViewPeasants(int now, int max)
     {
         _nowWorkerpriceText.text = now.ToString();
-        _maxWorkerText.text = "/ "+ max.ToString();
+        _maxWorkerText.text = " /"+ max.ToString();
     }
 }
