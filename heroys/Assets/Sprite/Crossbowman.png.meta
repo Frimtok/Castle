@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: daa8ec678886bed478144c4b4bb3b7aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crossbowman_0
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 921
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c4c12f6d24484791ba672492ec77f
+      internalID: 1271692137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 921
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c07d9e3c2122ab45a95881c62a9b370
+      internalID: -1224569671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 919
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093bee6180876f8438c84e02432a0797
+      internalID: -436130549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 921
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459a19812b0cbc45b190216d573a146
+      internalID: 162552287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 921
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda0a6a2c1c3bf46a733d6d995bbb91
+      internalID: 1034305619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 713
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3165d7130c4c7734ba9a7972afa8ceb5
+      internalID: -1273543398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 712
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258af1c370e3fe542b34f2a6980a7df6
+      internalID: -1080970442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 712
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f8be02d4270543b10cbf3d1521c5d
+      internalID: -1600942742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 712
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e010128cfaaad204caa81af4b2cb1a7f
+      internalID: 542206718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 712
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b513a385602b14586c32b10e989607
+      internalID: -318379583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_10
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 714
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246f1ec22f740c24db2b06a6964de051
+      internalID: -81779880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_11
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 718
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a50787e4d33f41a0b57ba4909589b
+      internalID: -845271629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 719
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2565444ebbd3f4080ea499e52da684
+      internalID: 935502089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_13
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 520
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9a1dae8ffa43d45aa07fe89ef23d8a
+      internalID: -914943214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 524
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb838c9c41a164db6f9d1c989370f5
+      internalID: 685321665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 527
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961a494613238346a5d1d4a065bb00b
+      internalID: -1166914456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_16
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 531
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adea27cecc9cfdc4e9dc1b6afaf95d05
+      internalID: -1709659817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_17
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 531
+        width: 55
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b613e1beff8b4944ea14d3c3c655e961
+      internalID: -699652342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_18
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 536
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a64ea8c5669c0545a6acf60633908a9
+      internalID: -1303896409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_19
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 534
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d1617cd60c3da4ab4c7d0e139f2353
+      internalID: -226280398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_20
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 373
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1dc2b1467da7245a449a8b01c9cbd9
+      internalID: -1390356376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_21
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 367
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf0fb3dcac2544cb0b2c30cee5ca63
+      internalID: 1247651858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 361
+        width: 43
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4637664, y: 0.5538958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01efbb914327d61458838c9a63800b2f
+      internalID: -1640885397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 359
+        width: 103
+        height: 52
+      alignment: 9
+      pivot: {x: 0.20335077, y: 1.089271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c849c8653318db40900e32bb322e8b9
+      internalID: 1941443054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 359
+        width: 103
+        height: 46
+      alignment: 9
+      pivot: {x: 0.1377996, y: 1.267746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d179fab89b5d64993bc61e1a74a1c7
+      internalID: -346964147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 153
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e472f895f4c34693462b87f43d002
+      internalID: 822430236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_26
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 148
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29446a931c489c478af7427fc1fade1
+      internalID: 96285659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_27
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 156
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020c919286a9f844902a6de8e23e5b5
+      internalID: -1812062529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_28
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 152
+        width: 67
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20035d01f3f1bcd4dbc9bf4dfab145bc
+      internalID: -968298109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_29
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 148
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b566c291218d7e40bf7328b20e4a705
+      internalID: -54295256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crossbowman_30
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 155
+        width: 64
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7991ba5cab1563428a96afba0aadb1d
+      internalID: -559491845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crossbowman_1: -1224569671
+      Crossbowman_8: 542206718
+      Crossbowman_7: -1600942742
+      Crossbowman_6: -1080970442
+      Crossbowman_19: -226280398
+      Crossbowman_27: -1812062529
+      Crossbowman_16: -1709659817
+      Crossbowman_25: 822430236
+      Crossbowman_2: -436130549
+      Crossbowman_26: 96285659
+      Crossbowman_20: -1390356376
+      Crossbowman_21: 1247651858
+      Crossbowman_15: -1166914456
+      Crossbowman_3: 162552287
+      Crossbowman_30: -559491845
+      Crossbowman_5: -1273543398
+      Crossbowman_10: -81779880
+      Crossbowman_17: -699652342
+      Crossbowman_28: -968298109
+      Crossbowman_24: -346964147
+      Crossbowman_12: 935502089
+      Crossbowman_14: 685321665
+      Crossbowman_13: -914943214
+      Crossbowman_11: -845271629
+      Crossbowman_0: 1271692137
+      Crossbowman_9: -318379583
+      Crossbowman_23: 1941443054
+      Crossbowman_18: -1303896409
+      Crossbowman_22: -1640885397
+      Crossbowman_29: -54295256
+      Crossbowman_4: 1034305619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

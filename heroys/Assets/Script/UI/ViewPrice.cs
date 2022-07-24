@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class ViewPrice : InterfaceUI
 {
      private Text _priceText;
-    HumanButton _humanButtun;
+     private HumanButton _humanButtun;
     private void OnEnable()
     {
         _humanButtun = GetComponentInParent<HumanButton>();

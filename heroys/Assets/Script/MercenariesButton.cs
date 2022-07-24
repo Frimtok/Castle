@@ -16,8 +16,6 @@ public class MercenariesButton : HumanButton
     }
     private void Spawn(SpawnPoint spawnPoint)
     {
-        Debug.Log(spawnPoint.transform.position.x);
-        Debug.Log(spawnPoint.transform.position.y);
         Instantiate(_human, spawnPoint.transform);
     }
     private void OnEnable()

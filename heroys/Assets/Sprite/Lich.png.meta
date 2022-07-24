@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: c6786a1d4b44df94fa06ec6288fa4a6e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lich_0
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 878
+        width: 95
+        height: 137
+      alignment: 9
+      pivot: {x: 0.364581, y: 0.5695587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099d3fee5ecb0243badeb24f43ab75e
+      internalID: -607029341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_1
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 891
+        width: 104
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3396483, y: 0.5989605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffaea525ad228347b61bab8bf793048
+      internalID: -1555638694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 891
+        width: 105
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3729399, y: 0.5916302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e861cdc05400b146be818d557f4cbf2
+      internalID: 28169923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_3
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 899
+        width: 111
+        height: 130
+      alignment: 9
+      pivot: {x: 0.3926859, y: 0.6062908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8de3ce49b8814eac5d85919327068
+      internalID: 309772423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_4
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1004
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bef3b9ba2e91f4d970b0ebcf0fa078
+      internalID: 1459873268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 718
+        width: 95
+        height: 136
+      alignment: 9
+      pivot: {x: 0.35455, y: 0.57007015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3732e3d68bdf7df4f812f09e4a895ba6
+      internalID: 1084426136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 723
+        width: 97
+        height: 136
+      alignment: 9
+      pivot: {x: 0.38702205, y: 0.5630632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a278a9157d7d49b83a60a63c72ea4
+      internalID: 158257772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 560
+        width: 109
+        height: 131
+      alignment: 9
+      pivot: {x: 0.31640458, y: 0.6018425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aee1404f9dfd74eaf13985706302c0
+      internalID: -354977343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 568
+        width: 121
+        height: 131
+      alignment: 9
+      pivot: {x: 0.3109857, y: 0.59093076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4a8fb30e3ea24b9df56a8f7b865b9
+      internalID: 680784162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 585
+        width: 125
+        height: 130
+      alignment: 9
+      pivot: {x: 0.32846925, y: 0.6062908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d40bc407e46df347bc6d67d661a44c6
+      internalID: 648884054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_10
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 587
+        width: 136
+        height: 126
+      alignment: 9
+      pivot: {x: 0.2862872, y: 0.6058834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2992eca99287c4e98b85dcb1add8a4
+      internalID: -1970576010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_11
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 590
+        width: 140
+        height: 126
+      alignment: 9
+      pivot: {x: 0.27197266, y: 0.60966516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db87a3adc283605418c34c4ce4a42f05
+      internalID: 1540536766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_12
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 581
+        width: 125
+        height: 142
+      alignment: 9
+      pivot: {x: 0.2751045, y: 0.56710947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edca8a3c690606a4e965dc3262cdd729
+      internalID: -1727260272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 395
+        width: 91
+        height: 141
+      alignment: 9
+      pivot: {x: 0.37517372, y: 0.5575436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6961d6d6711d4189c2f0712dc8be9
+      internalID: -1606393694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 404
+        width: 95
+        height: 139
+      alignment: 9
+      pivot: {x: 0.36904168, y: 0.57004577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe60be1f962aa8419577356ff5455e5
+      internalID: 993552812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 243
+        width: 118
+        height: 130
+      alignment: 9
+      pivot: {x: 0.29830363, y: 0.60818225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9de09e395d8d3478dde78c676d1f77
+      internalID: 697116773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 236
+        width: 146
+        height: 114
+      alignment: 9
+      pivot: {x: 0.2962312, y: 0.6613245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72361e40d2b96a84aa1e91d474444fc1
+      internalID: -488791517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 230
+        width: 148
+        height: 81
+      alignment: 9
+      pivot: {x: 0.2884505, y: 1.0158134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9195c61fe98e0418d52ef6a0e7506e
+      internalID: -1283578327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lich_18
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 236
+        width: 138
+        height: 49
+      alignment: 9
+      pivot: {x: 0.3264691, y: 1.4194716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3568004c79a924baf81421da500bb7
+      internalID: -1024218741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lich_6: 158257772
+      Lich_8: 680784162
+      Lich_12: -1727260272
+      Lich_14: 993552812
+      Lich_1: -1555638694
+      Lich_18: -1024218741
+      Lich_5: 1084426136
+      Lich_16: -488791517
+      Lich_4: 1459873268
+      Lich_17: -1283578327
+      Lich_10: -1970576010
+      Lich_2: 28169923
+      Lich_0: -607029341
+      Lich_11: 1540536766
+      Lich_7: -354977343
+      Lich_15: 697116773
+      Lich_9: 648884054
+      Lich_13: -1606393694
+      Lich_3: 309772423
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
