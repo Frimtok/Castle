@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public abstract class UndeadShoot : Undead
@@ -8,7 +7,7 @@ public abstract class UndeadShoot : Undead
     [SerializeField] private float _distance;
     [SerializeField] private GameObject _eye;
     [SerializeField] private GameObject _target;
-    [SerializeField] private Arrow _bolt;
+    [SerializeField] private Ammunition _arrow;
     [SerializeField] private typeAttack _typeAttack;
     [SerializeField] private LayerMask _layerMask;
     private int ShootAnimation = Animator.StringToHash("Shoot");
@@ -28,7 +27,12 @@ public abstract class UndeadShoot : Undead
 
     public void SpawnArrow()
     {
-        Instantiate(_bolt, _target.transform);
+        if (gameObject.GetComponentInChildren<Ammunition>() == false)
+        {
+            Ammunition arrow = Instantiate(_arrow, _target.transform.position, Quaternion.identity, _target.transform.parent);
+                arrow.SetBattler(_battlerAttack);
+                arrow.SetBuilding(_buildingAttack);
+        }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -122,15 +126,16 @@ public abstract class UndeadShoot : Undead
     }
     public override void Attack()
     {
-        if (_typeAttack == typeAttack.range)
-        {
-            _animator.StopPlayback();
-            _animator.Play(ShootAnimation);
-            Invoke("SpawnArrow", _speedAnimationShoot);
-        }
-        if (_typeAttack == typeAttack.melee)
-        {
-            base.Attack();
-        }
+
+            if (_typeAttack == typeAttack.range)
+            {
+                _animator.StopPlayback();
+                _animator.Play(ShootAnimation);
+                Invoke("SpawnArrow", _speedAnimationShoot);
+            }
+            if (_typeAttack == typeAttack.melee)
+            {
+                base.Attack();
+            }
     }
 }

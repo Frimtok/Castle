@@ -1,19 +1,17 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class HumanShoot : Human
+public abstract class HumanShoot : Human
 {
 
     [SerializeField] private float _distance;
     [SerializeField] private GameObject _eye;
     [SerializeField] private GameObject _target;
-    [SerializeField] private Arrow _bolt;
+    [SerializeField] private Ammunition _arrow;
     [SerializeField] private typeAttack _typeAttack;
     [SerializeField] private LayerMask _layerMask;
-    private int ShootAnimation = Animator.StringToHash("Shoot");
+    private int _shootAnimation = Animator.StringToHash("Shoot");
     [SerializeField] public float _speedAnimationShoot;
-    private bool _isSpawn = true;
     private enum typeAttack
     {
         range,
@@ -27,12 +25,13 @@ public class HumanShoot : Human
         }
     }
 
-    public void SpawnArrow()
+    private void SpawnArrow()
     {
-            Debug.Log("s");
-        if (_isSpawn)
+        if (gameObject.GetComponentInChildren<Ammunition>() == false)
         {
-            Instantiate(_bolt, _target.transform);
+                Ammunition arrow = Instantiate(_arrow, _target.transform.position, Quaternion.identity, _target.transform.parent);
+                arrow.SetBattler(_battlerAttack);
+                arrow.SetBoss(_undeadBoss);
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
@@ -82,6 +81,13 @@ public class HumanShoot : Human
                     _buildingAttack = _raycastHit.transform.GetComponent<UndeadBuilding>();
                     Attack();
                 }
+                if (_raycastHit.transform.GetComponent<UndeadBoss>())
+                {
+                    Debug.Log(_raycastHit.collider.gameObject.name);
+                    _typeAttack = typeAttack.range;
+                    _buildingAttack = _raycastHit.transform.GetComponent<UndeadBuilding>();
+                    Attack();
+                }
 
                 Debug.DrawRay(_eye.transform.position, transform.right * _distance, Color.green);
             }
@@ -100,16 +106,23 @@ public class HumanShoot : Human
             if (_raycastHit.transform.GetComponent<Undead>())
             {
                 Debug.DrawRay(_eye.transform.position, transform.right * _distance, Color.red);
-                Debug.Log(_raycastHit.collider.gameObject.name);
                 ChangeAttack();
                 _battlerAttack = _raycastHit.transform.GetComponent<Undead>();
                 _attackPurpose = _battlerAttack.gameObject;
             }
             if (_raycastHit.collider.GetComponent<UndeadBuilding>())
             {
+                Debug.DrawRay(_eye.transform.position, transform.right * _distance, Color.red);
                 ChangeAttack();
                 _buildingAttack = _raycastHit.transform.GetComponent<Building>();
                 _attackPurpose = _buildingAttack.gameObject;
+            }
+            if (_raycastHit.collider.GetComponent<UndeadBoss>())
+            {
+                Debug.DrawRay(_eye.transform.position, transform.right * _distance, Color.red);
+                ChangeAttack();
+                _undeadBoss = _raycastHit.transform.GetComponent<UndeadBoss>();
+                _attackPurpose = _undeadBoss.gameObject;
             }
             Debug.DrawRay(_eye.transform.position, transform.right * _distance, Color.red);
         }
@@ -128,13 +141,13 @@ public class HumanShoot : Human
     {
         if (_typeAttack == typeAttack.range)
         {
-            _animator.StopPlayback();
-            _animator.Play(ShootAnimation);
+                _animator.StopPlayback();
+                _animator.Play(_shootAnimation);
             Invoke("SpawnArrow", _speedAnimationShoot);
+
         }
         if (_typeAttack == typeAttack.melee)
         {
-            Debug.Log("a");
             base.Attack();
         }
     }

@@ -5,39 +5,43 @@ using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
 [RequireComponent(typeof(Transform))]
 [RequireComponent(typeof(Animator))]
+[RequireComponent(typeof(AudioSource))]
 public class Battler : MonoBehaviour
 {
     public delegate void View(int health);
     public event View OnView;
     [SerializeField] private float _speed;
-    [SerializeField] private float _attackDelay;
     [SerializeField] private int _health;
-    [SerializeField] private int _damage;
-    [SerializeField]protected state _nowState;
-    private BoxCollider2D _boxCollider2D;
-    private Transform _transform;
-    private Rigidbody2D _rigidbody;
-    private AnimationClip clip;
-    protected Animator _animator;
+    [SerializeField] protected int _damage;
+    [SerializeField] protected float _attackDelay;
+    [SerializeField] protected state _nowState;
+    [SerializeField] private AudioSource _soundDead;
+    protected BoxCollider2D _boxCollider2D;
+    protected Rigidbody2D _rigidbody;
     protected GameObject _attackPurpose;
+    protected Animator _animator;
     protected Battler _battlerAttack;
     protected Building _buildingAttack;
-    private int IdleAnimation = Animator.StringToHash("Idle");
-    private int MoveAnimation = Animator.StringToHash("Move");
-    private int AttackAnimation = Animator.StringToHash("Attack");
-    private int DeathAnimation = Animator.StringToHash("Death");
+    protected UndeadBoss _undeadBoss;
+    protected int IdleAnimation = Animator.StringToHash("Idle");
+    protected int MoveAnimation = Animator.StringToHash("Move");
+    protected int AttackAnimation = Animator.StringToHash("Attack");
+    protected int DeathAnimation = Animator.StringToHash("Death");
     [SerializeField] protected float _speedAnimation;
     [SerializeField] protected float _speedAnimationAttack;
     [SerializeField] protected float _speedAnimationDead;
     protected RaycastHit2D _raycastHit;
     [SerializeField] protected float _distanceQueue;
-    [SerializeField] protected GameObject _rayQueue;
+    [SerializeField] protected RayQueue _rayQueue;
+    private const int NOPUSH = 25;
     protected enum state
     {
         idle,
         move,
         attack,
-        death
+        death,
+        shoot,
+        fly
     }
     private void Update()
     {
@@ -57,6 +61,10 @@ public class Battler : MonoBehaviour
         {
             _battlerAttack.TakeDamage(_damage);
         }
+        if (_undeadBoss != null)
+        {
+            _undeadBoss.TakeDamage(_damage);
+        }
     }
     protected virtual bool OnQueue()
     {
@@ -75,27 +83,32 @@ public class Battler : MonoBehaviour
     }
     protected virtual void Move(float speed)
     {
+        _animator.Play(MoveAnimation);
         _rigidbody.velocity = new Vector2(-speed, 0);
     }
     public virtual void TakeDamage(int damage)
     {
         _health -= damage;
         OnView?.Invoke(_health);
-        if (_health <= 0)
+        if (_health <= 0 && _nowState != state.death)
         {
+            Debug.Log("a");
+            _soundDead.Play();
             StartCoroutine(StateDeath());
         }
     }
+
     protected virtual void Zeroize()
     {
        _battlerAttack = null;
     }
     private void Start()
     {
+        _soundDead = GetComponent<AudioSource>();
         _rigidbody = GetComponent<Rigidbody2D>();
-        _transform = GetComponent<Transform>();
         _animator = GetComponent<Animator>();
         _boxCollider2D = GetComponent<BoxCollider2D>();
+        _rigidbody.mass = NOPUSH;
         if (_attackDelay < _speedAnimationAttack)
         {
             _speedAnimationAttack = _attackDelay + 0.5f;
@@ -136,7 +149,6 @@ public class Battler : MonoBehaviour
             if (OnQueue())
             {
                 Move(_speed);
-                _animator.Play(MoveAnimation);
             }
             if (OnQueue() == false)
             {
@@ -145,7 +157,7 @@ public class Battler : MonoBehaviour
             yield return null;
         }
     }
-    protected IEnumerator StateAttack()
+    protected virtual IEnumerator StateAttack()
     {
         float timer = _attackDelay;
         _nowState = state.attack;
@@ -183,4 +195,5 @@ public class Battler : MonoBehaviour
         Destroy(gameObject,_speedAnimationDead);
         yield break;
     }
+    
 }

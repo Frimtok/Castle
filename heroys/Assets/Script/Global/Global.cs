@@ -1,11 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Global : MonoBehaviour
 {
     [SerializeField]private int NowLavel;
-    public const string NameScene = "GlobalMap";
+    public const string NameMapScene = "GlobalMap";
     
     private void AddLevel()
     {
@@ -23,10 +21,6 @@ public class Global : MonoBehaviour
     public void ViewNowLevel()
     {
         Debug.Log(NowLavel);
-    }
-    private void Start()
-    {
-        
     }
     private void OnEnable()
     {

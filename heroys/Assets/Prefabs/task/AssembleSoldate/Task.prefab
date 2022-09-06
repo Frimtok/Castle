@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2597468767254133018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2597468767254133016}
+  - component: {fileID: 2597468767254133017}
+  - component: {fileID: 2597468767254133022}
+  m_Layer: 0
+  m_Name: Task
+  m_TagString: Untagged
+  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2597468767254133016
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2597468767254133018}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 18.456896, y: -242.34634, z: 177705.31}
+  m_LocalScale: {x: 94.723465, y: 94.723465, z: 94.723465}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2597468767254133017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2597468767254133018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f8fabe2af68fe04a8a80123c55a7632, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _numberLevel: 0
+  AssembleObjects:
+  - Name: Pikeman
+    Image: {fileID: 1478002173, guid: c64a7d91dedb5af43be28c06cf99ebfb, type: 3}
+    Human: {fileID: 1747754655950297832, guid: 62999468bad739447bd1d3942b5d47e8, type: 3}
+    NowQuantity: 0
+    Quantity: 10
+    ID: 0
+    IsDone: 0
+    Level: 3
+  - Name: Archer
+    Image: {fileID: -975062243, guid: a6dac135223f55b40aa2c00da4f1a361, type: 3}
+    Human: {fileID: 4450513708130206975, guid: b7e2db738ac04d1438359af2211230e9, type: 3}
+    NowQuantity: 0
+    Quantity: 5
+    ID: 0
+    IsDone: 0
+    Level: 0
+--- !u!114 &2597468767254133022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2597468767254133018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d096fdfdfce29734b97f8503b9bbe456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _win: {fileID: 0}
+  _conditionTask: {fileID: 0}
+  _nowCount:
+  - {fileID: 0}
+  - {fileID: 0}
+  _compliteCount:
+  - {fileID: 0}
+  - {fileID: 0}
+  _soldateImage:
+  - {fileID: 0}
+  - {fileID: 0}

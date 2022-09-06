@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7880801399464866449}
   - component: {fileID: 89463650370340838}
   - component: {fileID: 5816402936724240027}
-  - component: {fileID: 7970034871988430655}
+  - component: {fileID: -6344781848464235849}
   m_Layer: 14
   m_Name: Sphere
   m_TagString: Enemy
@@ -134,7 +134,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.17, y: 0.17}
   m_EdgeRadius: 0
---- !u!114 &7970034871988430655
+--- !u!114 &-6344781848464235849
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -143,9 +143,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 3236513643509890762}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1d4adb5d15306744da512a94aea93f8a, type: 3}
+  m_Script: {fileID: 11500000, guid: 08ef70b42965bbc4eb2602697f3c1e00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 2
+  _speed: 9
+  _timeDestroy: 15
   _damage: 20
-  _timeDestroy: 5

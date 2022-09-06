@@ -3,26 +3,22 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UIDestroyEnemy : MonoBehaviour
+public class UIDestroyEnemy : UITasks
 {
     [SerializeField] private Text _nowDead;
     [SerializeField] private Text _countDead;
-    [SerializeField] private Text _win;
-    public const string winRu = "Победа";
-    public const string NameRu = "Уничтожено врагов:";
-    public const string NameEng = "Destroy Enemys:";
-
-
+    public const string NAMETASKRU = "Уничтожено врагов:";
+    public const string NAMETASKEN = "Destroy Enemys:";
     private void Start()
     {
-        _win.text = winRu;
-        _win.gameObject.SetActive(false);
-    }
-    public void ShowWin()
-    {
-        if (_nowDead.IsDestroyed() == false)
+        HideTaskUI();
+        if (_translation._language == Translation.Language.ru)
         {
-            _win.gameObject.SetActive(true);
+            ConditionTask(NAMETASKRU);
+        }
+        if (_translation._language == Translation.Language.en)
+        {
+            ConditionTask(NAMETASKEN);
         }
     }
     public void ShowDeadNow(int deadEnemy)

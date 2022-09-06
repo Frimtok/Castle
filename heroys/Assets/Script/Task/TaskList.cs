@@ -1,17 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TaskList : MonoBehaviour
 {
-    DestroyBuilding _destroyBuilding;
-    Withstand _withstand;
-    DestroyBoss _destroyBoss;
-    DestroyEnemy _destroyEnemy;
-    AssemblePeasant _assemblePeasant;
-    AssembleSoldiers _assembleSoldiers;
-    CollectGold _collectGold;
-
+    private DestroyBuilding _destroyBuilding;
+    private Withstand _withstand;
+    private DestroyNecromancer _destroyBoss;
+    private DestroyEnemy _destroyEnemy;
+    private AssemblePeasant _assemblePeasant;
+    private AssembleSoldiers _assembleSoldiers;
+    private CollectGold _collectGold;
+    [SerializeField] protected int _numberLevel;
 
     public TaskList(DestroyBuilding destroyBuilding)
     {
@@ -21,7 +22,7 @@ public class TaskList : MonoBehaviour
     {
         _withstand = withstand;
     }
-    public TaskList(DestroyBoss destroyBoss)
+    public TaskList(DestroyNecromancer destroyBoss)
     {
         _destroyBoss = destroyBoss;
     }
@@ -44,5 +45,16 @@ public class TaskList : MonoBehaviour
     public TaskList()
     {
 
+    }
+    protected virtual void Win()
+    {
+        Time.timeScale = 0.1f;
+        Invoke("NextScene", 0.4f);
+    }
+    private void NextScene()
+    {
+        Time.timeScale = 1f;
+        PlayerPrefs.SetInt("Level", _numberLevel);
+        SceneManager.LoadScene(Global.NameMapScene);
     }
 }

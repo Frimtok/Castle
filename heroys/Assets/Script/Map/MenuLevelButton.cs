@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuLevelButton : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class MenuLevelButton : MonoBehaviour
     public static event Levels EventBackLevels;
     public static event Levels EventNextLevels;
     public static event Levels EventStartLevels;
+    private const string NAMESCENEMENU = "MainMenu";
+    private const string NAMESCENEOPTIONS = "Options";
     public void ClickBack()
     {
         EventBackLevels?.Invoke();
@@ -20,6 +23,10 @@ public class MenuLevelButton : MonoBehaviour
     public void ClickStart()
     {
         EventStartLevels?.Invoke();
+    }
+    public void GoMain()
+    {
+        SceneManager.LoadScene($"{NAMESCENEMENU}");
     }
     
 }

@@ -6,14 +6,12 @@ using UnityEngine.SceneManagement;
 [RequireComponent(typeof(UIDestroyEnemy))]
 public class DestroyEnemy : TaskList
 {
-    [SerializeField] private int _numberLevel;
     [SerializeField] private int _count;
-    [SerializeField] private int _nowDead;
+    private int _nowDead;
     private UIDestroyEnemy _uIDestroyEnemy;
-    public static bool _WIN = false;
+
     private void Start()
     {
-        _WIN = false;
         _uIDestroyEnemy = GetComponent<UIDestroyEnemy>();
         _uIDestroyEnemy.ShowDeadAll(_count);
         _uIDestroyEnemy.ShowDeadNow(_nowDead);
@@ -41,26 +39,14 @@ public class DestroyEnemy : TaskList
     {
         _nowDead = 0;
     }
-
-    private void Win()
+    private void OnDisable()
     {
-        Undead.DeadEnemyEvent -= AddDead;
-        _WIN = true;
         Nulled();
+        Undead.DeadEnemyEvent -= AddDead;
+    }
+    protected override void Win()
+    {
         _uIDestroyEnemy.ShowWin();
-        Time.timeScale = 0.1f;
-        StartCoroutine(NestScenes());
-        
-    }
-    private void NextScene()
-    {
-        PlayerPrefs.SetInt("Level", _numberLevel);
-        SceneManager.LoadScene(Global.NameScene);
-    }
-    private IEnumerator NestScenes()
-    {
-        yield return new WaitForSeconds(0.2f);
-        Time.timeScale = 1f;
-        NextScene();
+        base.Win();
     }
 }

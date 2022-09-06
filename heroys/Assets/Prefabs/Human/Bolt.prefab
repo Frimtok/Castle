@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8105411605024012268}
   - component: {fileID: 6628158403932859080}
   - component: {fileID: 8951608993337933583}
-  - component: {fileID: 3202460198329071033}
+  - component: {fileID: 4126937420758401158}
   m_Layer: 13
   m_Name: Bolt
   m_TagString: Untagged
@@ -134,7 +134,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.25, y: 0.06}
   m_EdgeRadius: 0
---- !u!114 &3202460198329071033
+--- !u!114 &4126937420758401158
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -143,9 +143,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 6434481741150788112}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1d4adb5d15306744da512a94aea93f8a, type: 3}
+  m_Script: {fileID: 11500000, guid: 5090c1316bb8d314a8c3a1191a369d98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: -9
-  _damage: 10
   _timeDestroy: 2.73
+  _damage: 10

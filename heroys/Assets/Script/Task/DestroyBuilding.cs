@@ -2,16 +2,33 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(UIDestroyBuilding))]
 public class DestroyBuilding : TaskList
 {
-    public Building Building;
+    public UndeadBuilding Building;
+    private UIDestroyBuilding _uIDestroyBuilding;
+    public static bool _WIN = false;
+
     private void Start()
     {
-        Debug.Log("sd");
-        Debug.Log(Building.name);
+        _uIDestroyBuilding = GetComponent<UIDestroyBuilding>();
     }
-    public void MMMai()
+
+    private void OnEnable()
     {
-        Debug.Log("adsa");
+        Building.OnCastleEvent += OnBuildingDamegaUndead;
     }
+    private void OnDisable()
+    {
+        Building.OnCastleEvent -= OnBuildingDamegaUndead;
+    }
+    private void OnBuildingDamegaUndead(int health)
+    {
+        if (health <= 0)
+        {
+            _uIDestroyBuilding.ShowWin();
+            Win();
+        }
+    }
+    
 }

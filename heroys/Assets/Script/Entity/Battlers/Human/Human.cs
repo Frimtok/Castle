@@ -32,5 +32,10 @@ public abstract class Human : Battler
             _attackPurpose = castle.gameObject;
             _buildingAttack = castle;
         }
+        if (collision.gameObject.TryGetComponent(out UndeadBoss undeadBoss))
+        {
+            _attackPurpose = undeadBoss.gameObject;
+            _undeadBoss = undeadBoss;
+        }
     }
 }

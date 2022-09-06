@@ -7,7 +7,7 @@ public abstract class Building : MonoBehaviour
 { 
     [SerializeField]private int _health;
     public delegate void View(int health);
-    public event View OnView;
+    public event View OnCastleEvent;
     private Animator _animator;
     private void Start()
     {
@@ -16,7 +16,7 @@ public abstract class Building : MonoBehaviour
     public void TakeDamage(int damage)
     {
         _health -= damage;
-        OnView?.Invoke(_health);
+        OnCastleEvent?.Invoke(_health);
     }
     public int GetHealth()
     {

@@ -6,12 +6,66 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3bfef6dd33d88a14ab8508e489b74e03
+  - enabled: 1
     path: Assets/Scenes/GlobalMap.unity
     guid: d0113d6ba9025094d8b931b53740bee6
   - enabled: 1
     path: Assets/Scenes/LevelOne.unity
     guid: 1f8a5e664e15c8e4bb3d50744a14eae6
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/LevelTwo.unity
+    guid: 354d751fe4d67ea4ebf1e3fdb03e4d44
+  - enabled: 1
+    path: Assets/Scenes/LevelThree.unity
+    guid: 6c99816ac0215464181223c9897cb6a8
+  - enabled: 1
+    path: Assets/Scenes/LevelFour.unity
+    guid: 698bd98cec4fe384f99720d6972b6581
+  - enabled: 1
+    path: Assets/Scenes/LevelFive.unity
+    guid: 9fa1c3d386ce3a847b6f5616f70baab8
+  - enabled: 1
+    path: Assets/Scenes/LevelSix.unity
+    guid: 9f196970348a6284db21125abad75c90
+  - enabled: 1
+    path: Assets/Scenes/LevelSeven.unity
+    guid: 57fcf6ae800690c42a06993560a239d3
+  - enabled: 1
+    path: Assets/Scenes/LevelEight.unity
+    guid: 1cbbb3d31375b2446bc63a3bf86bfb69
+  - enabled: 1
+    path: Assets/Scenes/LevelNine.unity
+    guid: 7496eb1f81b4b8a4eab5efba487c6d4e
+  - enabled: 1
+    path: Assets/Scenes/LevelTen.unity
+    guid: e4dce1d630851404b996fad9f800c4f5
+  - enabled: 1
+    path: Assets/Scenes/LevelEleven.unity
+    guid: cd7b7247da540d04fa2dfab89956d9b8
+  - enabled: 1
+    path: Assets/Scenes/LevelTwelve.unity
+    guid: d16f06b8a4a56094494cb821182a9b68
+  - enabled: 1
+    path: Assets/Scenes/LevelThirteen.unity
+    guid: a8d4d969be76274428bd299aa340f418
+  - enabled: 1
+    path: Assets/Scenes/LevelFourteen.unity
+    guid: de629fe44a5d9b04fb75808c71da223f
+  - enabled: 1
+    path: Assets/Scenes/LevelFifteen.unity
+    guid: a7ea0f841aa9eca4d980bea174e30ce3
+  - enabled: 1
+    path: Assets/Scenes/LevelSixteen.unity
+    guid: c7852d8e0c87709498adf3c5f8dfb488
+  - enabled: 1
+    path: Assets/Scenes/LevelSeventeen.unity
+    guid: 282dbb5bcd15c1a43b556aae590a2130
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 390ec01c93581834eb2ec4c1d03a635c
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: c3ecb87a18712ec46b18d616419ef72f
   m_configObjects: {}

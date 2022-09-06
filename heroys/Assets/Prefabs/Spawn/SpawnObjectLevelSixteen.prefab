@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3902510083818476290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3902510083818476288}
+  - component: {fileID: 3902510083818476289}
+  m_Layer: 0
+  m_Name: SpawnObjectLevelSixteen
+  m_TagString: Untagged
+  m_Icon: {fileID: 7866945982896999795, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3902510083818476288
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3902510083818476290}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.271257, y: 2.5808237, z: -2.3331609}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3902510083818476289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3902510083818476290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 503bca7049456b3429f2afe6ec320f28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnemyObjects:
+  - Name: 
+    Image: {fileID: 0}
+    Undead: {fileID: 8811099568792684778, guid: ddc8eb2169ed4a94c883f8dea698e317,
+      type: 3}
+    Time: 1
+    Quantity: 5
+    IsRepeat: 0
+    _isActive: 1
+  - Name: 
+    Image: {fileID: 0}
+    Undead: {fileID: 9123288472896835879, guid: e17fb432af809cb4c921a9f3c095b3db,
+      type: 3}
+    Time: 10
+    Quantity: 1
+    IsRepeat: 0
+    _isActive: 1
+  - Name: 
+    Image: {fileID: 0}
+    Undead: {fileID: 7434971481324232939, guid: a8e72996d2eaf9a408a56e29079cd677,
+      type: 3}
+    Time: 25
+    Quantity: 1
+    IsRepeat: 0
+    _isActive: 1
+  - Name: 
+    Image: {fileID: 0}
+    Undead: {fileID: 8811099568792684778, guid: ddc8eb2169ed4a94c883f8dea698e317,
+      type: 3}
+    Time: 35
+    Quantity: 2
+    IsRepeat: 0
+    _isActive: 1
+  - Name: 
+    Image: {fileID: 0}
+    Undead: {fileID: 4419559298179815674, guid: 379c30d027ac54e4cb891a777de077bf,
+      type: 3}
+    Time: 80
+    Quantity: 1
+    IsRepeat: 0
+    _isActive: 1
+  - Name: 
+    Image: {fileID: 0}
+    Undead: {fileID: 4959808892349143851, guid: 44358460079f6ef4bab063f6cb68114c,
+      type: 3}
+    Time: 65
+    Quantity: 2
+    IsRepeat: 0
+    _isActive: 1
+  - Name: 
+    Image: {fileID: 0}
+    Undead: {fileID: 7434971481324232939, guid: a8e72996d2eaf9a408a56e29079cd677,
+      type: 3}
+    Time: 70
+    Quantity: 1
+    IsRepeat: 0
+    _isActive: 1
